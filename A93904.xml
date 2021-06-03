@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in S. Peter's Westminster, on the first Sunday in Advent, at the consecration of the Right Reverend Fathers in God, John Lord Bishop of Durham, William Lord Bishop of S. David's, Beniamin L. Bishop of Peterborough, Hugh Lord Bishop of Landaff, Richard Lord Bishop of Carlisle, Brian Lord Bishop of Chester, and John Lord Bishop of Exceter. By W.S. B.D.</title>
+            <author>Sancroft, William, 1617-1693.</author>
+         </titleStmt>
+         <extent>Approx. 93KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93904</idno><idno type="EEBO-CITATION">99863431</idno>
+  <idno type="VID">168993</idno>
+  <idno type="EEBO-PROQUEST">2240959809</idno>
+  
+            <idno type="STC">Wing S566</idno>
+            <idno type="STC">Thomason E1055_4</idno>
+            <idno type="PROQUEST">99863431</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863431e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168993)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in S. Peter's Westminster, on the first Sunday in Advent, at the consecration of the Right Reverend Fathers in God, John Lord Bishop of Durham, William Lord Bishop of S. David's, Beniamin L. Bishop of Peterborough, Hugh Lord Bishop of Landaff, Richard Lord Bishop of Carlisle, Brian Lord Bishop of Chester, and John Lord Bishop of Exceter. By W.S. B.D.</title>
+                  <author>Sancroft, William, 1617-1693.</author>
+               </titleStmt>
+               <extent>[4], 39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Roycroft, for Robert Beaumont, at the Star in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.S. = William Sancroft, whose name appears on A2v.</note>
+                  <note>Annotation on Thomason copy: "Jan: 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168993:1"/>
+            <p>A SERMON <hi>PREACHED</hi> In S. <hi>Peter</hi>'s <hi>Westminster,</hi> on the first Sunday in <hi>Advent,</hi> at the Consecration of the Right Reverend <hi>Fathers</hi> in God,
+<list>
+                  <item>JOHN <hi>Lord Bishop of</hi> Durham,</item>
+                  <item>WILLIAM <hi>Lord Bishop of</hi> S. David's,</item>
+                  <item>BENIAMIN <hi>L. Bishop of</hi> Peterborough,</item>
+                  <item>HUGH <hi>Lord Bishop of</hi> Landaff,</item>
+                  <item>RICHARD <hi>Lord Bishop of</hi> Carlisle,</item>
+                  <item>BRIAN <hi>Lord Bishop of</hi> Chester, <hi>and</hi>
+                  </item>
+                  <item>JOHN <hi>Lord Bishop of</hi> Exceter.</item>
+               </list>
+            </p>
+            <p>By <hi>W. S.</hi> B. D.</p>
+            <q>
+               <bibl>
+                  <hi>Apoc. i. 20.</hi>
+               </bibl> Septem Stellae Angeli sunt Septem Ecclesiarum.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Roycroft,</hi> for <hi>Robert Beaumont,</hi> at the <hi>Star</hi> in <hi>Little Britain,</hi> 1660.</p>
+         </div>
+         <div xml:lang="lat" type="document">
+            <pb facs="tcp:168993:2"/>
+            <pb facs="tcp:168993:2"/>
+            <p>
+               <hi>REVERENDO</hi> IN CHRISTO PATRI, AC DOMINO, D<seg rend="sup">no</seg> JOHANNI EPISCOPO <hi>DUNELMENSI,</hi> EOQUE NOMINE JURA HABENTI COMITIS PALATINI, SACRAE THEOLOGIAE PROFESSORI, VETERIS SCRIPTURARUM CANONIS ADSERTORI, ET VINDICI; ECCLESIAE
+<list>
+                  <item>
+                     <hi>PETROBƲRGENSIS</hi> EX—DECANO,</item>
+                  <item>
+                     <hi>DƲNELMENSIS</hi>
+                     <list>
+                        <item>DE CANO DESIGNATO,</item>
+                        <item>DIU CANONICO, JAM ETIAM <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>,</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>ANGLICANAE</hi> ET FILIO, ET PATRI OPTIMO,</item>
+                  <item>
+                     <hi>ROMANAE</hi>
+                     <list>
+                        <item>HODIERNAE, ET NUPERAE, OP<g ref="char:EOLhyphen"/>PUGNATORI STRENUO,</item>
+                        <item>VETERIS, ET PRIMITIVAE, UT &amp;</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>CATHOLICAE</hi>
+                     <list>
+                        <item>ADMIRATORI PERPETUO,</item>
+                        <item>CULTORI DEVOTISSIMO,</item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>:</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb facs="tcp:168993:3"/>
+            <p>VIRO,
+<q>
+                  <l>
+                     <hi>QƲI,</hi> INUTRIUSQUE FORTUNAE SEU DURIS, SEU LUBRICIS</l>
+                  <l>EODEM ANIMI TENORE USUS,</l>
+                  <l>NONDUM PAR ANIMO PERICULUM INVENIT:</l>
+                  <l>
+                     <hi>CƲI,</hi> BONAE, MALAE{que} FAMAE MEDIO PERGENTI,</l>
+                  <l>NEC AB EA, QUAM FIXERAT <hi>ECCLESIA,</hi>
+                  </l>
+                  <l>VERITATIS LINEA RECEDENTI USPIAM,</l>
+                  <l>(UTPOTE NEC HUIUS CONVITIIS TERRITO,</l>
+                  <l>NEC ILLIUS ILLECEBRIS DELINITO;)</l>
+                  <l>UBI{que} SUI SIMILI, UNDI{que} <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>CESSIT TANDEM CALUMNIA,</l>
+                  <l>NON VICTA SOLUM, SED ET TRIUMPHATA,</l>
+                  <l>ET, QUANTUMVIS GARRULA, OBMUTUIT:</l>
+               </q>
+            </p>
+            <p>HANC CONCIUNCULAM, <hi>EJƲS</hi>
+               <list>
+                  <item>JUSSU CONCEPTAM,</item>
+                  <item>NATAM AUSPICIIS,</item>
+                  <item>HORTATU, ET MANDATO</item>
+                  <item>IN LUCEM EDITAM<note n="(*)" place="margin">Nè iis quidem o<g ref="char:EOLhyphen"/>missis, quae, prae fuga temporis, vi<g ref="char:EOLhyphen"/>va vox exequi non potuit.</note>
+                  </item>
+               </list> PERPETUAE OBSERVANTIAE PIGNUS, <hi>&amp;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, L.MQ. D.D. CQ.GƲILHELMƲS SANDCROFT, PRESBYTER INDIGNUS, PATERNITATI EJUS A SACRIS.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168993:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>TIT. 1.5.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>For this cause left I thee in <hi>Creet,</hi> that thou shouldest set in order the things, that are wanting, and ordain Elders in every City, as I had appointed thee.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>Epistle</hi> is one of the <hi>three,</hi> not unfitly styled the <hi>Hierarchical Epistles, de statu Ecclesiastico compositae,</hi> as<note n="(a)" place="margin">Adv. <hi>Mar<g ref="char:EOLhyphen"/>cion.</hi> l. 5. in sine.</note>
+               <hi>Tertullian</hi> speaks: being so many <hi>Rescripts Aposto<g ref="char:EOLhyphen"/>lical</hi> to <hi>Timothie,</hi> and <hi>Titus,</hi> (the One desired by St. <hi>Paul to stay at Ephesus,</hi> Primate of <hi>Asia;</hi> the Other <hi>left in Creet,</hi> Metropolitan of that, and<note n="(b)" place="margin">Vide S. Hieron. <hi>in</hi> Catalog. Script. Eccles.</note> the neighbour <hi>Islands;</hi>) directing them,<note n="(c)" place="margin">1 Tim. iii. 15.</note>
+               <hi>how they ought to behave themselves in the House of God, which is the Church of the living God.</hi> True, and genuine <hi>Decretal Epistles;</hi> not like that counterfeit Ware, which<note n="(d)" place="margin">
+                  <hi>Vide</hi> D. Blondelli Pseu<g ref="char:EOLhyphen"/>do-Isidor.</note>
+               <hi>Isidore Merca<g ref="char:EOLhyphen"/>tor,</hi> under <hi>venerable Names,</hi> hath had the Hardiness to obtrude upon the World; but of the right stamp, and alloy; and such, as St. <hi>Augustine</hi> saith,<note n="(e)" place="margin">
+                  <hi>De Doctr. Christian.</hi> lib. 4. cap. 16.</note> a <hi>Bishop</hi>
+               <pb n="2" facs="tcp:168993:4"/> ought always to carry in his Hand, and to have be<g ref="char:EOLhyphen"/>fore his Eyes.</p>
+            <p>The <hi>Verse,</hi> I have read to you, following immedi<g ref="char:EOLhyphen"/>ately upon the Salutation, begins the body of the <hi>E<g ref="char:EOLhyphen"/>pistle</hi> it self; and, like an ingenious, and well-contriv'd <hi>Perspective,</hi> gives us, from the very Front, a fair Pro<g ref="char:EOLhyphen"/>spect into the <hi>Contents</hi> of the Whole. It is, as it were, a kind of <hi>Magical Glass;</hi> in which an Eye, not blind with Ignorance, nor blear'd with Passion, may see di<g ref="char:EOLhyphen"/>stinctly the face of the <hi>Primitive Church,</hi> in that Golden Age of the Apostles; the Platform of her Govern<g ref="char:EOLhyphen"/>ment; the beautifull Order of her <hi>Hierarchie;</hi> the Original, and Derivation of her chief Officers, and their subordination both to one another, and to Christ,<note n="(f)" place="margin">1. Pet. ii. 25.</note>
+               <hi>the great Bishop of our Souls,</hi> in the last <hi>Re<g ref="char:EOLhyphen"/>sort;</hi> together with the Manage, and Direction of the most important Acts of the Government, both in point of <hi>Ordination,</hi> and <hi>Jurisdiction</hi> too. For here we have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Elders,</hi> that is Bishops (as shall be shewed in due time) dispos'd of <hi>City by City,</hi> in every City One: these Bishops both ordained, and ordered; constituted, and corrected; created, and governed by <hi>Titus</hi> alone; and so He, in right of the Premises, no other, than<note n="(g)" place="margin">
+                  <hi>Vide</hi> Reve<g ref="char:EOLhyphen"/>rendiss. <hi>Arma<g ref="char:EOLhyphen"/>chan.</hi> de Orig. Metropolit. <hi>pag. 71, 72.</hi>
+               </note>
+               <hi>Metropolitan,</hi> or <hi>Arch-Bishop</hi> there; the Angel, or the Arch-angel rather of the whole Church of <hi>Creet.</hi> If you ask, who fix'd Him the Intelligence of so large an Orbe; 'twas St. <hi>Paul</hi> himself, (You have that too in the Text) <hi>For this Cause left I thee in Creet.</hi> If yet higher, your Curiosity will needs see the Derivation of St. <hi>Paul</hi>'s Power too; He opens his Comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssion, <hi>verse</hi> 1. and spreads it be<g ref="char:EOLhyphen"/>fore You, styling himself <hi>a Servant of God, and an A<g ref="char:EOLhyphen"/>postle
+<pb n="3" facs="tcp:168993:4"/> of Jesus Christ,</hi> One sent abroad into the World by His Commission, acted, and assisted by His Spirit, to plant, and to govern Churches after this Scheme, and Model. So that my <hi>Text,</hi> like<note n="(h)" place="margin">Il. O.</note>
+               <hi>Homer</hi>'s <hi>Sym<g ref="char:EOLhyphen"/>bolical Chain,</hi> consists, you see, of many Links; but the Highest is tyed to the foot of <hi>Jupiter</hi>'s Throne: or rather, like <hi>Jacob</hi>'s mysterious Ladder, the Foot of it stands below in <hi>Bethel,</hi> the House of God,<note n="(i)" place="margin">Gen. xxviii. 12. <hi>Versio</hi> Lxx.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Head of it is in Heaven; and God himself stands at the top of it, and<note n="(l)" place="margin">Ib. <hi>v. 13. Vulg.</hi> Et Domi<g ref="char:EOLhyphen"/>num innixum scale. <hi>Lxx.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> leans upon it, and keeps it firm; Angels ascending, and de<g ref="char:EOLhyphen"/>scending upon it in the intermedial degrees; the Bi<g ref="char:EOLhyphen"/>shops of the Church, like those blessed Spirits, incessantly bringing down the Commands of God to the Church in their Doctrine, and carrying up the Prayers of the Church before God's Throne, in their holy Offices, and Intercessions. So that, you see, this <hi>holy</hi>
+               <note n="(m)" place="margin">Psal. cxxxiii. 2.</note>
+               <hi>Oyl,</hi> which without measure was shed <hi>upon the Head</hi> of our <hi>great High Priest,</hi>
+               <note n="(n)" place="margin">Matth. xxviii. 18.</note>
+               <hi>(all Power being given to Him, both in Heaven, and Earth;) runs down</hi> in full stream <hi>upon the Beard,</hi> (for,<note n="(o)" place="margin">Joh. xx. 21</note>
+               <hi>As my Father sent me,</hi> saith He to his Disciples, <hi>even so send I you;</hi>) and so by, and through them to their Successours, holy Bi<g ref="char:EOLhyphen"/>shops, and Presbyters, <hi>even down to the skirts of his Garment:</hi> For in this comely, and exquisite Order, we find it in my Text, <hi>For this Cause I (Paul an A<g ref="char:EOLhyphen"/>postle of Jesus Christ,) left thee</hi> (Titus) <hi>in Creet, that thou shouldest set in order</hi> (or, <hi>correct) the things, that are wanting, and ordain Elders in every City, as I had appointed thee.</hi>
+            </p>
+            <p>In which words we have these three Parts.</p>
+            <p>First, The Erection of a Power in the Person of
+<pb n="4" facs="tcp:168993:5"/>
+               <hi>Titus;</hi> a Metropolitical Power over the whole Island of <hi>Creet: I left thee in Creet.</hi>
+            </p>
+            <p>Secondly, The end of this Institution, or the Use, and Exercise of this Power, in a double Instance, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to Order, and to Ordain; to Cor<g ref="char:EOLhyphen"/>rect, and Constitute; to make Bishops, and to govern them;<note n="(p)" place="margin">Theophyl. <hi>in</hi> Hypoth.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the <hi>Greek Scholia</hi> have it: <hi>For this cause—that thou shouldest set in order what was wanting, and ordain Elders in every City.</hi>
+            </p>
+            <p>Thirdly, The Limitation of All to Apostolical Prescript, and Direction; both Ordination, and Ju<g ref="char:EOLhyphen"/>risdiction too, the whole Office must be managed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>As I had appointed thee.</hi> These are the Parts.</p>
+            <p>Of which that I may so speak, and you so hear, and all of us so remember, and so practice, that God's holy Name may be glorified, and we all built up in the knowledge of that Truth, which is according unto Godliness; We beseech God the Father, in the Name of his Son <hi>Jesus Christ,</hi> to give us the assistance of his Holy Spirit.</p>
+            <p>
+               <hi>And in these, and all other our Supplications, let us al<g ref="char:EOLhyphen"/>ways remember to pray for Christ's holy Catholick Church,</hi> i. e. <hi>for the whole Congregation of Christian people, dispersed thorough the whole World; That it would please Almighty God to purge out of it all</hi> Schism, Errour, <hi>and</hi> Heresie, <hi>and to unite all</hi> Christians <hi>in one holy bond of</hi> Faith, <hi>and</hi> Charity; <hi>that so at length the happy Day may dawn upon us, in which all, that do confess his Holy Name, may agree in the truth of his holy Word, and live in Ʋnity, and godly Love. More especially let us pray for the Churches of</hi> En<g ref="char:EOLhyphen"/>gland, Scotland, <hi>and</hi> Ireland: <hi>that the God of Peace, who
+<pb n="5" facs="tcp:168993:5"/> maketh men to be of one mind in a House, would make us All of one Soul, and of one Spirit, that again we may meet together, and praise Him with one Heart, and Mouth, and worship Him with one Accord in the Beauty of Holiness. To this end, I am to require you most especially to pray for the</hi> King<hi>'s most Excellent Majesty, our Sovereign Lord</hi> Charles, <hi>by the Grace of God, King of</hi> England, Scotland, France, <hi>and</hi> Ireland, <hi>Defender of the Faith, and Supreme Governour in these His Realms, and in all other His Domi<g ref="char:EOLhyphen"/>nions, and Countries, over all Persons, in all Causes, as well Ecclesiastical, as Temporal: that God would establish His Throne in righteousness, and His Seed to all Generations. Also for our gracious Lady</hi> Mary <hi>the Queen-Mother, for the most Illustrious Prince</hi> James, <hi>Duke of</hi> York, <hi>and for the whole Royal Family: that God would take them all into his Care, and make them the Instruments of his Glory, and the good, and welfare of these Nations. Further let us pray for the Ministers of God's holy Word, and Sacraments, as well Arch-Bishops, and Bishops, as other Pastours, and Cu<g ref="char:EOLhyphen"/>rates; for the Lords, and others of his Majestie's most ho<g ref="char:EOLhyphen"/>nourable Council; and for all the Nobility, and Magistrates of the Realm: that All, and every of these, in their several Callings, may serve truly, and painfully to the Glory of God, and the edifying, and well-governing of his People, remem<g ref="char:EOLhyphen"/>bring the Account, that they must make. Let us also pray for the Ʋniversities of this Land,</hi> Cambridg, <hi>and</hi> Ox<g ref="char:EOLhyphen"/>ford: <hi>that God would water them with his Grace, and still continue them the Nurseries of Religion, and Learning, to the whole Land. Let us pray for the whole Commons of this Realm: that remembring at last, from whence they are fallen, they may repent, and do the first works, living henceforth in faith, and fear of God, in humble obedience to their</hi> King,
+<pb n="6" facs="tcp:168993:6"/>
+               <hi>and in brotherly Charity one to another. Finally, let us praise God for all those, that are already departed out of this life in the Faith of</hi> Christ, <hi>and pray unto</hi> God, <hi>that we may have Grace to direct our lives after their good Ex<g ref="char:EOLhyphen"/>amples; that, this life ended, we may be made partakers with them of the glorious Resurrection in the life Everlast<g ref="char:EOLhyphen"/>ing. For which, and for all other needfull Blessings, let us say together the Prayer of our Lord, who hath taught us to say,</hi> Our Father, &amp;c.</p>
+            <p>
+               <hi>For this cause left I thee in Creet,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The Erecting of the Power, that's the first; <hi>I left thee in Creet.</hi> Where we have these Particulars: The Original of this Power, in <hi>Ego;</hi> the Subject of it, in <hi>Te, Ego Te;</hi> the Conveyance in <hi>Ego Reliqui;</hi> and the Extent, in <hi>Reliqui Cretae,</hi> or <hi>in Creta.</hi>
+            </p>
+            <p n="1">I. <hi>I left thee;</hi> I <hi>the Apostle of Jesus Christ</hi> (vers. 1.) left thee Mine: there's the Source, and the Stream; the Original, and the Derivation of All; 'twas from our Lord, by his Apostle: I did it, his Commissioner.</p>
+            <p n="1">(1) And therefore, First, Not a Suffragan of St. <hi>Peter,</hi> as some of the <hi>Romish Partizans</hi> would fain have it:<note n="(q)" place="margin">
+                  <hi>Suar. adv. sect. Angl.</hi> l. 3. c. 12 f. <hi>Bellarm. de R. Pont.</hi> l. 1. c. 11. <hi>f.</hi> c. 23. <hi>Magal.</hi> in <hi>1. Tim. Prooem.</hi> Sect. 11, &amp; 13.</note> Who, to serve the over-high pretenses of that Court, are not content to Dogmatize, That St. <hi>Peter</hi> was the Prince, and Sovereign of the Apostles; and his very Successours superiour to the Apostles, that survived Him; and That, they being once All dead, there was never since any Power in the Church, but in Successi<g ref="char:EOLhyphen"/>on to Him, and by Derivation from Him; dare yet higher, and with strange confidence pronounce, That, the Apostles themselves were all ordained by St. <hi>Peter,</hi> and He alone by <hi>Christ:</hi> and That, when the <hi>Holy
+<pb n="7" facs="tcp:168993:6"/> Ghost</hi> said,<note n="(r)" place="margin">Act. xiii. 2.</note>
+               <hi>Separate me Barnabas, and Saul, for the work, whereunto I have called them,</hi> they were thereupon sent up to <hi>Jerusalem,</hi> to be ordained by St. <hi>Peter.</hi> Affir<g ref="char:EOLhyphen"/>mations so very strange, that I know not what can be more; unless this be, that they should think them passable with us, upon the Authority of<note n="(s)" place="margin">Hist. Act. Ap. <hi>c. 70.</hi>
+               </note>
+               <hi>Petrus Co<g ref="char:EOLhyphen"/>mesto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the <hi>Scholastick</hi> Historian, and those suspected<note n="(t)" place="margin">Anacleti, Felicis <hi>I.</hi> Inn. <hi>I.</hi>
+               </note>
+               <hi>Decretals</hi> of the false Merchant, I mention'd at the beginning. Whereas for the Imposition of Hands upon <hi>Barnabas,</hi> and <hi>Saul,</hi> (were it a Blessing, or were it<note n="(u)" place="margin">As our <hi>Church</hi> seems to have deter<g ref="char:EOLhyphen"/>mined. See the <hi>Exhortati<g ref="char:EOLhyphen"/>on</hi> before the <hi>Litany</hi> in the Consecration of <hi>B B.</hi>
+               </note> an Ordination) 'tis plainly inferred, <hi>verse</hi> 3. to have been perform'd upon the Place by the Persons men<g ref="char:EOLhyphen"/>tion'd, <hi>verse</hi> 1. And St. <hi>Paul,</hi> for his particular, in the Front of every <hi>Epistle,</hi> enters his Protestation against all this, as if he had foreseen it; still qualifying himself<note n="(w)" place="margin">2 Tim. i. 1.</note>
+               <hi>an Apostle of Jesus Christ by the will of God;</hi>
+               <note n="(x)" place="margin">Gal. i. 1.</note>
+               <hi>an A<g ref="char:EOLhyphen"/>postle, not of Men, nor by Man, but</hi>
+               <note n="(y)" place="margin">1 Tim. i. 1.</note>
+               <hi>by the Commandment of God our Saviour;</hi> and accordingly you may see him contesting it to the height, both against <hi>Peter,</hi> and the rest, <hi>Gal.</hi> 1<seg rend="sup">st</seg>, &amp; 2<seg rend="sup">d</seg>. <hi>Chapters</hi> throughout: That <hi>the Gospel he preach<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d was not of Man,</hi>
+               <note place="margin">Ch. i. v. 11.</note> the Apostleship he exercis'd was not from Man;<note place="margin">v. 12. v. 15, 16.</note> but the one by immediate Reve<g ref="char:EOLhyphen"/>lation, the other by Assignation from Heaven it self. So that, having receiv'd his Mission thence, and his In<g ref="char:EOLhyphen"/>structions too,<note place="margin">v. 16.</note> he thought it unnecessary to <hi>confer with flesh, and blood,</hi> to apply himself to any Mortal man, for the enhancing of either.<note place="margin">v. 18.</note> He <hi>went up</hi> indeed <hi>to Je<g ref="char:EOLhyphen"/>rusalem to visit Peter three years after</hi> his Conversion; and yet once again,<note n="(z)" place="margin">Ch. ii. v. 1.</note>
+               <hi>fourteen years after,</hi> he returned thither, and had Conference with <hi>James,</hi> and <hi>Cephas,</hi> and <hi>John;</hi> but these <hi>Pillars added nothing to him;</hi>
+               <note place="margin">v. 6. v. 9.</note> neither established his Authority, nor advanced his
+<pb n="8" facs="tcp:168993:7"/> Knowledg:<note place="margin">v. 1.</note> and <hi>Titus</hi> himself was present at the enterview, and so an Eye-witness, that <hi>in nothing he came behinde the very chiefest Apostles;</hi> for they all <hi>gave him the right hand of Fellowship,</hi>
+               <note place="margin">v. 9.</note> far from exacting the right hand of Preheminence: and so <hi>Paul, an Apostle of Jesus Christ,</hi> not a Deputy of the Apostolical College, much less a Suffragan of St. <hi>Peter,</hi> or his Legate <hi>à la<g ref="char:EOLhyphen"/>tere,</hi> as was pretended. But,</p>
+            <p n="2">(2.) Not a Disciple of <hi>Gamaliel.</hi> For there is <hi>a Dis<g ref="char:EOLhyphen"/>puter of this World,</hi> who having laid it down for a Principle with himself (indeed his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>That all pretence of Ecclesiastical Power, as from Christ, is but an Imposture,</hi> is thereupon obliged to give such an ac<g ref="char:EOLhyphen"/>compt of the Appearances of it in the <hi>New Testament,</hi> as may suit with this <hi>Postulatum:</hi> and accordingly; for the particular of Imposition of Hands for Ordination of Elders<note n="(a)" place="margin">
+                  <hi>De Synedr.</hi> lib. 1. cap 14. pag 569; <hi>&amp;c.</hi>
+               </note> will have it onely the pursuance of a <hi>Jewish</hi> Custom, which St. <hi>Paul</hi> learned at the feet of his Master <hi>Gamaliel,</hi> under whom he Commenc'd El<g ref="char:EOLhyphen"/>der, before he was <hi>Christian,</hi> and thereupon, after, thought good to create his own Disciples to the same Dignity (according to<note n="(b)" place="margin">
+                  <hi>Pag. 571.</hi> Unusquis{que} ritè creatus potest Discipulos suos ritè creare.</note> the Law of those Scholes) and <hi>Titus</hi> amongst the rest, whom he <hi>left in Crete,</hi> to do the like, and <hi>to Constitute</hi> his Scholars <hi>Elders</hi> too, <hi>in all the Cities,</hi> where he should preach. A Discourse so loose, and incoherent, that 'tis not worth your while to stand by, and see it fall in pieces, which it would quick<g ref="char:EOLhyphen"/>ly do (were it not already done<note n="(c)" place="margin">
+                  <hi>See Dr.</hi> H. H. Letter of Re<g ref="char:EOLhyphen"/>solut. <hi>&amp;c.</hi> Quer. <hi>5.</hi>
+               </note> to our hands) upon a gentle Examination. I shall onely remind you of what was said before upon the former Particular, and so leave it in Compromise to any Indifferent; Whether St. <hi>Paul,</hi> the <hi>Apostle of Jesus Christ,</hi> who so stoutly re<g ref="char:EOLhyphen"/>fuseth
+<pb n="9" facs="tcp:168993:7"/> to <hi>Releve</hi> of Saint <hi>Peter</hi> himself, or the rest of the <hi>Apostles,</hi> as owing his whole Commission to Heaven alone, would yet acknowledg to hold it of <hi>R. Gamaliel,</hi> the unconverted <hi>Jew,</hi> as Usher of his Schole, or Graduate in a <hi>Rabbinical Academie.</hi>
+            </p>
+            <p n="3">(3.) (Yet further, to vindicate our selves) <hi>An Apostle of Jesus Christ,</hi> not a Delegate of the Civil Magistrate. For<note n="(d)" place="margin">
+                  <hi>Advers. Sect. Angl.</hi> lib. 3. cap. 8. num. 12.</note>
+               <hi>Suarez,</hi> the <hi>Spanish</hi> Jesuite, that he may have something to confute in the <hi>English</hi> Sect (as he will needs call us) saith confidently, That the Power of Order with us is nothing else, but a Deputation of certain persons by the Temporal Magistrate to do those Acts, which he himself much more might do; made indeed with some kinde of Ceremonies, but those esteemed Arbitrary, and unnecessary to the Ef<g ref="char:EOLhyphen"/>fect, which would follow as well without them, by the King's sole Deputation. A Calumny, which the whole Business of this Day most solemnly refutes: a kinde of a second Nag's-head Fable, a Filly of the same Race, both Sire, and Dam, begotten by the Father of Lies upon a slanderous Tongue, and so sent Post about the World, to tell false Tidings of the <hi>English;</hi> as credible, as that our Kings Excommunicate, or that Queen <hi>Elizabeth</hi> Preached. Would they have been just, or ingenuous, they should have laid the Brat at the Physician's door, who was the Father of it: Not the beloved Physician, though his Name comes nigh; (<hi>Erastus,</hi> but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) no, his Praise was not in the Gospel, but a Physician in <hi>Geneva,</hi> learned, and Eminent enough. 'Tis remarkable, that, in the same Place, and much about the same Time (so un<g ref="char:EOLhyphen"/>lucky an Ascendent hath Errour, and Mistake, upon
+<pb n="10" facs="tcp:168993:8"/> some Persons!) should Three Conceits be hatched concerning Church-Government, which, like Three Furies, have vext the quiet of the Church ever since. For the <hi>Consistorial,</hi> and <hi>Congregational</hi> Pretenses were Twins of the same Birth; though the Younger serv'd the Elder, and, being much over-power'd, sunk in the stream of Time, till it appeared again in this un<g ref="char:EOLhyphen"/>happy Age, amongst the Ghosts of so many reviv'd Errours, that have escap'd from their Tombs, to walk up, and down, and disturb the World. And not long after this <hi>Physician</hi> too, would needs step out of his own Profession, to mistake in two others at once, <hi>Policy,</hi> and <hi>Divinity,</hi> running a <hi>risque</hi> of setting ill-Understanding betwixt them, had not Abler, and Wiser Heads then He, stept in, and so evenly cut the thrid, so exactly stated the Controversie, and asserted the very Due on either side, that there remains now no ground, either of Jealousie among Friends, or, one would think, of Slander fom Enemies. And yet, even some of our own too (which we have reason more deeply to resent) would needs bear the World in hand, when Time was, That the Claim of Episco<g ref="char:EOLhyphen"/>pal Power, as from <hi>Christ,</hi> and his Apostles, was an Assault upon the Right of our Kings, and tended to the Disherison of the Crown. As if the Calling might not stand by Divine Right, and yet the Ad<g ref="char:EOLhyphen"/>juncts, and Appendages of it by Humane Bounty: As if the Office it self might not be from <hi>Christ,</hi> and yet the Exercise of it onely by, and under the Permission of Pious Kings: or, As if the Church might not ow the Keys of the Kingdom of Heaven both that of Order, and that of Jurisdiction too (purely Spiritual, I mean,
+<pb n="11" facs="tcp:168993:8"/> and without any Temporal Effect) to the Donation of <hi>Christ,</hi> and yet, at the same time, ow all the Co<g ref="char:EOLhyphen"/>active Power in the External Regiment (which is one of the Keys of the Kingdoms of this World, for the enforcing of Obedience by constraint) to the <hi>Political Sanction.</hi> These things thus clearly distinguish'd, I cannot see, why we may not with some Confidence in<g ref="char:EOLhyphen"/>fer the <hi>Apostolical,</hi> and, at least, in Consequence thereupon, the Divine Right of our <hi>Ecclesiastical Hierarchie,</hi> how harsh soever it sounds, either at <hi>Rome,</hi> or <hi>Geneva;</hi> and though the Hills about<note n="(e)" place="margin">Vide <hi>Hist. Concil. Trid.</hi> lib. 7.</note>
+               <hi>Trent</hi> resounded loud with the <hi>Eccho</hi> of that Noise, and stiff Debate, which past upon that Argument within the Walls of that <hi>Councel.</hi> Howev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r they like it, on this side the <hi>Hills,</hi> or beyond. St. <hi>Paul</hi> stands firmly by us, and voucheth the Grand <hi>Charter</hi> of his <hi>Apostolate</hi> for all: <hi>Me, me, adsum, qui feci —</hi> 'Twas I, <hi>the Apostle of Jesus Christ,</hi> that left <hi>Titus</hi> to ordain <hi>Elders</hi> in <hi>Creet;</hi> and what <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> will be found for this <hi>Argument?</hi> 'Twas <hi>the Holy Ghost,</hi> that <hi>made you Bishops,</hi> saith the same <hi>Apostle</hi>
+               <note n="(f)" place="margin">Acts xx. 38.</note> to the <hi>Elders</hi> at <hi>Miletus;</hi> so that these are no <hi>Milesian Fables,</hi> but<note n="(g)" place="margin">Acts xxvi. 25.</note>
+               <hi>the Words of Truth, and Soberness,</hi> a part of the Holy, and Divine <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the real <hi>Acts,</hi> and <hi>Gests</hi> of the <hi>Apostles</hi> of <hi>Christ,</hi> nay, the <hi>Act,</hi> and <hi>Deed</hi> of <hi>Christ</hi> himself by his <hi>Apostles,</hi> accord<g ref="char:EOLhyphen"/>ing to that <hi>Rule</hi> of the <hi>Hebrews,</hi>
+               <note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Talm.</hi> in <hi>Kid<g ref="char:EOLhyphen"/>duschin,</hi> fol. 41.2.</note>
+               <hi>Apostolus cujus{que} est, ut quisque.</hi> And so much for the <hi>Original</hi> of the <hi>Power.</hi>
+            </p>
+            <p>I go on (II) to the <hi>Subject,</hi> and that is <hi>Titus: Ego Te, I left Thee.</hi>
+            </p>
+            <p n="1">(1.) <hi>Thee</hi> first, <hi>mine Host,</hi> and of the <hi>whole</hi> Church. For, when the <hi>Jews,</hi> at <hi>Corinth,</hi>
+               <note n="(i)" place="margin">Acts xviii. 6.</note>
+               <hi>contradicted, and blasphemed</hi> the <hi>Doctrine,</hi> delivered by St. <hi>Paul, he shook
+<pb n="12" facs="tcp:168993:9"/> his Raiment,</hi> and<note n="(k)" place="margin">v. 7.</note>
+               <hi>departed into the house of one</hi> Justus (so we read it after the <hi>Greek</hi> Copies, <hi>one that worship<g ref="char:EOLhyphen"/>ped God, and dwelt by the Synagogue;</hi>
+               <note n="(l)" place="margin">v. 11.</note>
+               <hi>and there he abode</hi> eighteen <hi>Moneths.</hi> But the <hi>Syriack Version</hi> saith, it was the <hi>House of</hi> Titus, (and so<note n="(m)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> St. <hi>Chrysostome</hi> seemeth, by his <hi>Preface</hi> to this <hi>Epistle,</hi> to have found it in some <hi>Copies:</hi>) and the <hi>Vulgar Latine,</hi> and <hi>Arabick,</hi> reconciling both, <hi>The House of</hi> Titus Justus, or <hi>of</hi> Titus <hi>the Son of</hi> Justus. If you give credit to this <hi>Tradition,</hi> thus fairly derived; 'twill return you this Lesson; <hi>That no man serves God in vain; that none opens the doors of God's House, nor the doors of his own, to receive God's Church in, that loseth his Reward. Obadiah,</hi> that secured, and fed an hundred Prophets in Persecution, received a Prophet's Reward, and<note n="(n)" place="margin">Vide <hi>Munst. Vatabl.</hi> &amp; alios in <hi>Obad.</hi>
+               </note> (though but a <hi>Proselyte</hi>) was himself made one of the <hi>Twelve. The house of Obed-Edom, the</hi> Gittite, <hi>and All, that pertained to him, was blest, for the Ark of God's sake,</hi> that occasionally turned in thither. And <hi>Titus,</hi> a <hi>Gentile,</hi> who received St. <hi>Paul</hi> into his House, not onely gains thereby the Lights of Faith, and the Incomparable Advantages of Religi<g ref="char:EOLhyphen"/>on; but is himself introduced into the <hi>Church,</hi> which is the <hi>House of God,</hi> and set amongst the <hi>Princes</hi> there; being singled out to this special Honour from a<g ref="char:EOLhyphen"/>mongst the many, that attended St. <hi>Paul</hi> in his Jour<g ref="char:EOLhyphen"/>neyings. Hear this, you Noble, and Generous Souls, who, in this time of Calamity, have spread your Wings over the persecuted Prophets of God, and had a <hi>Church</hi> in your <hi>House,</hi> when they made a <hi>Stable</hi> of the <hi>Church.</hi> Believe it, God, and his <hi>Church</hi> pay their <hi>Quarters,</hi> wheree're they come, and there is not One of you shall miss of his Reward.</p>
+            <p n="2">
+               <pb n="13" facs="tcp:168993:9"/>(2.) <hi>Thee,</hi> who wert so exceedingly <hi>Dear,</hi> so high<g ref="char:EOLhyphen"/>ly <hi>Ʋsefull</hi> to me,<note n="(o)" place="margin">2 Cor. ii. 12.</note>
+               <hi>Titus my Brother;</hi>
+               <note n="(p)" place="margin">Tit. i. 4.</note>
+               <hi>mine own Son after the common Faith;</hi> two very endearing Titles: And then, so <hi>Necessary</hi> to me; That<note n="(q)" place="margin">2 Cor. ii. 12, 13.</note>
+               <hi>when I came to</hi> Troas, <hi>to preach</hi> Christ<hi>'s Gospel, and a door was opened unto me of the Lord; I had no rest in my Spirit; because I found not</hi> Titus <hi>my Brother: but taking my leave, went thence into</hi> Macedonia. Upon which Place, with some others<note n="(r)" place="margin">2 Cor. vii. 6.</note> St. <hi>Jerome</hi>
+               <note n="(s)" place="margin">Epist. 150. ad <hi>Hedib.</hi> qu 11.</note> hath founded his <hi>Conjecture,</hi> That <hi>Titus</hi> was St. <hi>Paul</hi>'s Interpreter to the <hi>Grecians.</hi> For, though the <hi>Apostle</hi> understood the <hi>Greek</hi> Lan<g ref="char:EOLhyphen"/>guage, and wrote it too Elegantly enough; yet<note n="(t)" place="margin">Divinorum sensuum Maje<g ref="char:EOLhyphen"/>statem digno non poterat Graeci e<g ref="char:EOLhyphen"/>loquti explicare sermone. <hi>S.</hi> Hie<g ref="char:EOLhyphen"/>ron. <hi>ibid. Vide &amp;</hi> Baron. <hi>Tom. 1.</hi> Ann. <hi>45. n. 32,</hi> &amp;c.</note> there might be something of Uncouth, and Barbarous in his Pronunciation, which rendred it not so smooth, and passable to a common <hi>Greek</hi> Ear: (which <hi>Jose<g ref="char:EOLhyphen"/>phus</hi> also, though<note n="(u)" place="margin">Photius. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> a spruce <hi>Greek Writer,</hi>
+               <note n="(w)" place="margin">
+                  <hi>Antiq.</hi> lib. 20. cap. <hi>ult.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> com<g ref="char:EOLhyphen"/>plains of, as both his own, and the general Infelicity of his <hi>Nation.</hi>) But, though <hi>Titus</hi> was so <hi>Needfull</hi> to St. <hi>Paul</hi> in this, or some such respect, and so Dear, and Precious in many others; yet the <hi>Apostle,</hi> most resolvedly, leaves him behinde in <hi>Creet;</hi> as He, who knew most chearfully to Sacrifice all his own Advan<g ref="char:EOLhyphen"/>tages, and the tenderest, and inmost of his Affecti<g ref="char:EOLhyphen"/>ons to the Benefit of <hi>Christ</hi>'s Church, and the Interest of Religion. Let us <hi>go, and do likewise.</hi>
+            </p>
+            <p n="3">(3.) But Thirdly, and principally; <hi>Thee,</hi> a <hi>single</hi> Per<g ref="char:EOLhyphen"/>son; not a <hi>Consistory</hi> of <hi>Presbyters,</hi> or a <hi>Bench</hi> of <hi>El<g ref="char:EOLhyphen"/>ders.</hi> But this <hi>Observation,</hi> together with the next Par<g ref="char:EOLhyphen"/>ticular, (III) The <hi>Extent of his Power,</hi> as it reacheth the whole <hi>Island</hi> of <hi>Creet,</hi> I shall have occasion to resume by and by; and so pass on at present.</p>
+            <p>There is nothing behinde of the first Part of the
+<pb n="14" facs="tcp:168993:10"/>
+               <hi>Text,</hi> but (IV) the <hi>Conveyance of the Power</hi> couched, or supposed, in <hi>Ego Reliqui, I left Thee.</hi> A close <hi>Conveyance,</hi> by a word, in which there may be much more under<g ref="char:EOLhyphen"/>stood, than exprest; <hi>viz.</hi> A Derivation, or Transmission of Power from S. <hi>Paul</hi> to <hi>Titus,</hi> enabling him for the Discharge of that work, he was entrusted with. <hi>Reli<g ref="char:EOLhyphen"/>quit vice suâ;</hi> as <hi>Haymo</hi>
+               <note n="(x)" place="margin">In locum.</note> well. As if S. <hi>Paul</hi> had said, <hi>I left thee in Creet,</hi> my <hi>Depuiy,</hi> and <hi>Ʋice-gerent</hi> there, to water, what I had planted; to build up, what I had founded; to perfect, what I had begun. <hi>I left thee,</hi> to Reside <hi>in Creet, (as I be<g ref="char:EOLhyphen"/>sought</hi> Timothy <hi>to abide at</hi> Ephesus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) to be <hi>Resident</hi> there, as fix'd, and ordinary Governour of that <hi>Church,</hi> while I went on still to preach the Gospel in other <hi>Regions,</hi> where the Name of <hi>Christ</hi> had not been heard. In fine, <hi>For this Cause</hi> was he left, that he should perform such special Acts, <hi>(ordain Elders, and reform what was amiss)</hi> and therefore certainly left Commissioned, and Authorized after the <hi>Apostolical</hi> Guise, to do those Acts, <hi>viz</hi> by <hi>Imposition of Hands,</hi> and <hi>Episcopal Ordination:</hi> which is a true <hi>Gloss,</hi> though of a <hi>Pseudo-Ambrose</hi>
+               <note n="(y)" place="margin">In <hi>Titum.</hi>
+               </note>
+               <hi>Titum Apostolus consecravit Episco<g ref="char:EOLhyphen"/>pum:</hi> and back'd by <hi>Theophylact,</hi> and others amongst the <hi>Grecians,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> But it will best appear, what the <hi>Power</hi> was in the <hi>Conveyance,</hi> (and consequently what the <hi>Conveyance</hi> it self) by taking notice, what it was to be in the Exer<g ref="char:EOLhyphen"/>cise of it: and so I go on to the <hi>Second</hi> Part of my <hi>Text,</hi> in which we finde it designed to a double Act, <hi>to Order,</hi> and to <hi>Ordain;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="1">1. In the First there will be some Variety. For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> being properly to<note n="(z)" place="margin">Vide <hi>Scul<g ref="char:EOLhyphen"/>teti Obss.</hi> in <hi>Tit.</hi> 1. cap. 2.</note>
+               <hi>Correct,</hi> or <hi>make Strait that,
+<pb n="15" facs="tcp:168993:10"/> which is Crooked,</hi> (not that, which is <hi>wanting,</hi> to which it seems not to have so just a <hi>Rapport;</hi>) and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> being, in the next <hi>Notion,</hi> those things, which are <hi>wanting,</hi> (and therefore not so aptly said to be <hi>correct<g ref="char:EOLhyphen"/>ed,</hi> as <hi>supplied,</hi> or <hi>added:</hi>) For the according of the <hi>Terms,</hi> I cannot see, why the <hi>Participle</hi> may not have as powerfull Influence upon the <hi>Verbe,</hi> (to qualifie That,) as That upon the <hi>Participle;</hi> and shall therefore make this advantage of the Doubt, to take in the con<g ref="char:EOLhyphen"/>sideration of both <hi>Senses,</hi> and suppose, that <hi>Titus</hi> is here commissioned, both to <hi>supply,</hi> what was <hi>Wanting;</hi> and to <hi>correct,</hi> what was <hi>Amiss.</hi>
+            </p>
+            <p>First, <hi>To supply, what was Wanting.</hi> And then the <hi>Nerve,</hi> and <hi>Emphasis</hi> of the <hi>Verb</hi> will lie in the <hi>Prepo<g ref="char:EOLhyphen"/>sition;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to do something <hi>Additionally,</hi> and by way of <hi>Supplement</hi> to what was done before, but was not sufficient. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as S. <hi>Chry<g ref="char:EOLhyphen"/>sostome</hi>
+               <note n="(a)" place="margin">
+                  <hi>Homil.</hi> 1.</note> to <hi>fill up the Vacuities,</hi> and <hi>Defects,</hi> that were left, which probably were not a few, in <hi>Creet</hi> especial<g ref="char:EOLhyphen"/>ly, a <hi>Church</hi> so lately Founded (but<note n="(b)" place="margin">Vide <hi>Baron.</hi> Ann. 58. <hi>n.</hi> 1.</note> the year before) and in which S. <hi>Paul</hi> stayed so short a time, in which long Works could not be brought about. Neither let any <hi>Church,</hi> though of longer continuance, flatter, and sooth up it self, with <hi>Laodicea,</hi>
+               <note n="(c)" place="margin">Apoc. iii. 17.</note> as if it <hi>needed no<g ref="char:EOLhyphen"/>thing.</hi> The <hi>Ship</hi> of the <hi>Church</hi> is never so perfectly <hi>rigg'd,</hi> but something may be added. 'Tis seldom, or never, but some <hi>pin,</hi> or other is lacking, even in God's <hi>Tabernacle,</hi> while it sojourns here below. Just as in the <hi>Material</hi> Church; 'tis scarce known but either the <hi>Roof</hi> is open, or the <hi>Pavement</hi> uneven, the <hi>Windows</hi> broken, or some part, or other, of the <hi>Wall</hi> mouldring, and dropping away: So in the <hi>Spiritual,</hi> either the
+<pb n="16" facs="tcp:168993:11"/>
+               <hi>Light</hi> is not good, or the <hi>Walking</hi> is not answerable; 'tis well if the <hi>Foundation</hi> stands firm, and sinks not; but the <hi>Super-structions,</hi> most commonly, want some<g ref="char:EOLhyphen"/>thing; that must be supplied. And therefore, me<g ref="char:EOLhyphen"/>thinks, the <hi>Inference</hi> is strong, There's need of a <hi>Bi<g ref="char:EOLhyphen"/>shop</hi> in every <hi>Church,</hi> that must<note n="(d)" place="margin">
+                  <hi>Isid. Pelus.</hi> lib. 1. Ep. 149. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> learn his <hi>Office</hi> in his <hi>Name,</hi> and <hi>look about him,</hi> be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Isidore Pelusiote</hi> appositely) and, like a wise Master-builder, have a careful Eye, ever awake, upon all parts, to see what is <hi>wanting,</hi> and to <hi>supply</hi> it. That's the <hi>first.</hi>
+            </p>
+            <p>But secondly, <hi>To correct what is amiss;</hi> Things, that are faulty, and defective, and want something, (<hi>sc.</hi> of their due Rectitude, and Conformity to the <hi>Rule;</hi>) for so perhaps the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may signifie, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>Hesychius</hi>
+               <note n="(e)" place="margin">Hesych. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Lege <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> shall warrant me that <hi>Gloss.</hi> Or else <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>things, that leave their Rank,</hi> and <hi>start</hi> out of their place; and so to be reduc'd, and set in <hi>Order</hi> again. And of this sort also there was but too much in <hi>Creet.</hi> For, to say nothing of the <hi>evil Beasts</hi> with the Nimble Tongues, and<note n="(f)" place="margin">Tit. i. 10.</note>
+               <hi>slow bellies;</hi> we finde also in this <hi>Chapter Jewish Leaven</hi> to be purged out, and, as some<note n="(g)" place="margin">Dr. H. <hi>Hammond,</hi> in c. 1.9, 16.</note> have thought, <hi>Gnostick</hi> Impurity to be resisted,<note n="(h)" place="margin">v. 10.</note>
+               <hi>unruly, and vain talkers, and deceivers;</hi>
+               <note n="(i)" place="margin">v. 11.</note>
+               <hi>Subverters of whole houses; teachers of things, they ougt not, for filthy lucre's sake;</hi>
+               <note n="(k)" place="margin">v. 16.</note>
+               <hi>Men, that profess to know</hi> God, <hi>but in works denie him, being abominable, diso<g ref="char:EOLhyphen"/>bedient, and to every good work reprobate.</hi> So that, for ought we see, they might well enough deserve the <hi>black Character,</hi> the <hi>Proverb</hi> brands them with, amongst the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the three<note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>very infamous Na<g ref="char:EOLhyphen"/>tions,</hi> that began with C. For such a <hi>superfluity of Naugh<g ref="char:EOLhyphen"/>tiness</hi> S. <hi>Paul</hi> here designs a proportionate <hi>Corrective,</hi>
+               <pb n="17" facs="tcp:168993:11"/> and sends <hi>Titus,</hi> and his <hi>Elders,</hi> amongst them, to bring them into better order, by a threefold Instrument, <hi>Vitâ, Doctrinâ, Censurâ;</hi> all in this <hi>Epistle,</hi> and in this <hi>Chapter.</hi>
+            </p>
+            <p n="1">(1) <hi>Vitâ</hi> first, by the <hi>Example</hi> of his <hi>holy life.</hi>
+               <note n="(m)" place="margin">Ch. ii. 7.</note>
+               <hi>In all things shewing thy self</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a pattern of good works.</hi> For, as S. <hi>Ambrose</hi>
+               <note n="(n)" place="margin">Lib. 10. <hi>Epist.</hi> 82. ad <hi>Eccles. Vercell.</hi>
+               </note> excellently, <hi>In Episcopo vita formatur omnium;</hi> the <hi>Life</hi> of the <hi>Prelate</hi> is, as it were, a <hi>Form,</hi> or <hi>mold,</hi> in which the <hi>Conversation</hi> of others is <hi>Shap'd,</hi> and <hi>model'd:</hi> Or, as<note n="(o)" place="margin">Lib. 1. <hi>Epist.</hi> 319. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Isidore Pe<g ref="char:EOLhyphen"/>lusiot</hi> conceits it, like a <hi>Seal</hi> well cut, which stamps the common <hi>Christians</hi> under his care, as <hi>Wax,</hi> with the like <hi>Impressions.</hi> And therefore S. <hi>Paul,</hi> who well under<g ref="char:EOLhyphen"/>stood this, twice within two <hi>Verses</hi> of my <hi>Text,</hi> requires it a <hi>Qualification</hi> in a <hi>Bishop,</hi> that he be <hi>blameless,</hi>
+               <note n="(p)" place="margin">
+                  <hi>Inaccusabi<g ref="char:EOLhyphen"/>lis:</hi> Cajetan.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>One,</hi> that <hi>cannot be accused,</hi> which yet Inno<g ref="char:EOLhyphen"/>cence it self, you know, may be; nay, but a <hi>Bishop</hi> must be void of <hi>Suspicion</hi> too, as well as <hi>Crime.</hi> Ay, that's the way to set all right indeed: For so fair a <hi>Co<g ref="char:EOLhyphen"/>pie,</hi> plac'd in so good a <hi>Light,</hi> teacheth it self; and eve<g ref="char:EOLhyphen"/>ry One, that runs by, will read it, and strive to write after it.</p>
+            <p n="2">(2) But Secondly, <hi>Doctrinâ;</hi> by <hi>speaking the things, that become sound Doctrine.</hi>
+               <note n="(q)" place="margin">Ch. ii. 1.</note> For a <hi>Bishop</hi> must be <hi>able</hi> both<note n="(r)" place="margin">Ch. i.9.</note>
+               <hi>to exhort, and to convince the Gainsayers:</hi>
+               <note n="(s)" place="margin">Ch. ii. 7, 8.</note>
+               <hi>In Doctrine</hi> shewing <hi>Ʋncorruptness, Gravity, Sincerity, sound Speech, that cannot be condemned, that he, that is of the contrary part, may be ashamed,</hi> &amp;c.</p>
+            <p n="3">(3) <hi>Censurâ,</hi> That must not be forgotten, as being chief in the Ey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>Text.</hi> No; the <hi>Garden</hi> of <hi>God</hi> must be <hi>weeded</hi> sometimes, or, like the <hi>Sluggard's Vine<g ref="char:EOLhyphen"/>yard,</hi>
+               <note n="(t)" place="margin">Prov. xxiv. 30, 31.</note> 'twill soon be <hi>overgrown with Nettles, and
+<pb n="18" facs="tcp:168993:12"/> Thorns.</hi> Even <hi>Christ</hi>'s <hi>Vine</hi> must be <hi>pruned</hi> too, or 'twill run out, and spend it self in fruitless Luxury. The <hi>Lamps</hi> of the <hi>Temple</hi> will burn faint, and dim, if they be not trimmed, and drest, and snuffed now, and then. And therefore, though the <hi>Tables</hi> of the <hi>Law,</hi> and the <hi>Pot</hi> of <hi>Manna</hi> be in the <hi>Ark;</hi> yet 'tis not a perfect <hi>Em<g ref="char:EOLhyphen"/>bleme</hi> of the <hi>Church,</hi> unless the <hi>Rod</hi> of <hi>Aaron</hi> be there too: and without <hi>Jurisdiction,</hi> and <hi>Discipline,</hi> we shall quickly finde; the <hi>Word,</hi> and <hi>Sacraments</hi> will not have so powerful an Influence upon a loose, and a de<g ref="char:EOLhyphen"/>bauched World. <hi>Epiphanius</hi>
+               <note n="(u)" place="margin">
+                  <hi>Contra Haeres.</hi> lib. 3. cap. 1. <hi>Contra</hi> Aerian.</note> observes, That <hi>Moses</hi> was sent into <hi>Egypt</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Some while after he in<g ref="char:EOLhyphen"/>stituted the <hi>Pass-over,</hi> and received the <hi>Law,</hi> and con<g ref="char:EOLhyphen"/>secrated <hi>Aaron,</hi> and his Sons, to the <hi>Priest-hood;</hi> but he carried the <hi>Rod</hi> of God with him in his hand. No bringing up the <hi>Israel</hi> of God out of <hi>Egypt</hi> without it. And 'tis that <hi>Rod</hi> therefore, which S. <hi>Paul</hi> here puts in<g ref="char:EOLhyphen"/>to <hi>Titus</hi>'s hand, when he bids him <hi>Correct, what is amiss,</hi> in the <hi>Text;</hi> and <hi>Rebuke evil doers</hi>
+               <note n="(v)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>sharply, and se<g ref="char:EOLhyphen"/>verely,</hi> v. 13. and <hi>Stop the mouths of such, as teach, what they ought not;</hi> v. 11. Nay, and <hi>Rebuke them</hi>
+               <note n="(w)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>with all Authority,</hi> not suffering his <hi>Monitions</hi> to be slighted by any: <hi>Let no man contemn thee;</hi> Ch. ii. v. 15.</p>
+            <p>Nay, if <hi>Corrigas</hi> will not serve the turn, be a Word too low, S. <hi>Jerome,</hi> upon the place, and, after him, <hi>Car<g ref="char:EOLhyphen"/>dinal Cajetan,</hi> have added a <hi>Cubit</hi> to its <hi>Stature,</hi> and ad<g ref="char:EOLhyphen"/>vanc'd it into <hi>Super-corrigas;</hi> which yet perhaps ar<g ref="char:EOLhyphen"/>rives not the full Altitude of the <hi>Greek.</hi> For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a <hi>Decompound,</hi> and, if <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be to <hi>make strait,</hi> or <hi>right,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>thoroughly to do it,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to <hi>do it,</hi> not onely <hi>exactly,</hi> but <hi>over,</hi> and <hi>over again,</hi> S. <hi>Chrysostom,</hi>
+               <pb n="19" facs="tcp:168993:12"/> and S. <hi>Jerom</hi>
+               <note n="(x)" place="margin">In locum.</note> both, take notice of this <hi>Emphasis,</hi> and state it thus; That, <q>whereas S. <hi>Paul</hi> had correct<g ref="char:EOLhyphen"/>ed some things, and so far; <hi>Titus</hi> should go on, where he left, and compleat, what he had begun; bringing them yet to another <hi>Test,</hi> till they came forth, like <hi>Gold,</hi> more than once tryed in the <hi>Furnace.</hi>
+               </q>
+            </p>
+            <p>An Hint, which will perhaps be too greedily catch'd at by those, to whose Advantage it was never intend<g ref="char:EOLhyphen"/>ed. A sort of <hi>Men,</hi> that are all for <hi>Super-corrigas;</hi> but 'tis still on the wrong side, and of that, which is not a<g ref="char:EOLhyphen"/>miss. The <hi>Reformers</hi> of the <hi>World,</hi> and <hi>Syndics</hi> of all <hi>Christendom;</hi> Men but <hi>of yesterday,</hi> yet wiser, and <hi>bet<g ref="char:EOLhyphen"/>ter, than all the Fathers;</hi> that <hi>Over-Correct,</hi> and <hi>Over-Re<g ref="char:EOLhyphen"/>form</hi> every thing: correct <hi>Magnificat</hi> it self, before they be out of danger of the rest of the <hi>Proverb:</hi> Correct, not the <hi>Cretans,</hi> and their <hi>Amisses;</hi> but <hi>Titus,</hi> and his <hi>Elders:</hi> serving all <hi>Antiquity,</hi> and Patterns of <hi>Primi<g ref="char:EOLhyphen"/>tive</hi> Government, as<note n="(y)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. <hi>in</hi> Theseo.</note>
+               <hi>Procrustes</hi> did his Guests, who still <hi>reduced them to the Scantling of his Beds:</hi> So these; either cutting them <hi>short,</hi> or forcing them out <hi>longer,</hi> till they apply to the just Model they have fancied to themselves, and would impose upon others. Thus <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> must be screwed up into an <hi>Extraordinary,</hi> and so a <hi>Temporary</hi> Officer, an <hi>Evangelist,</hi> or a <hi>Secondary Apostle,</hi> (as <hi>Walo Messalinus,</hi> and others) not a fix'd, and <hi>Ordi<g ref="char:EOLhyphen"/>nary</hi> Governour of the Church of <hi>Creet,</hi> lest that come cross to their Designs: and, on the other side, the <hi>Elders</hi> of the <hi>Text</hi> must be degraded into <hi>common Presbyters,</hi> lest we should have <hi>Bishops</hi> here of S. <hi>Paul</hi>'s, and <hi>Titus</hi> his own Creation: with how little rea<g ref="char:EOLhyphen"/>son in either, we go on to consider in</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <p n="11">
+               <pb n="20" facs="tcp:168993:13"/>11. The second Act, to which this Power is here de<g ref="char:EOLhyphen"/>signed, and that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to ordain Elders in every City.</hi>
+            </p>
+            <p>Concerning which <hi>Elders,</hi> whether of the <hi>first,</hi> or <hi>second</hi> Rank, I know well, what Variety of Opinion hath past, even amongst mine own Mother's Sons. Nor shall I be nice to acknowledge it; as counting it our Advantage, that we have more, than a single <hi>Hy<g ref="char:EOLhyphen"/>pothesis,</hi> to salve the <hi>Phoenomena,</hi> and some choice of <hi>Answers,</hi> each of them sufficiently securing us from the <hi>Contradiction</hi> of the <hi>Gainsayers:</hi> to whose Pretensi<g ref="char:EOLhyphen"/>ons these <hi>Elders</hi> will be for ever useless, whether un<g ref="char:EOLhyphen"/>derstood <hi>Bishops,</hi> or <hi>common Presbyters,</hi> alwaies or<g ref="char:EOLhyphen"/>dained, and governed, either by the <hi>Apostles</hi> them<g ref="char:EOLhyphen"/>selves, or by <hi>Bishops</hi> of their appointment, as they drew off. But, not to leave it wholly in the <hi>Clouds,</hi> I will not doubt to profess mine own sense too, with due submission; That the <hi>Elders</hi> in the <hi>Text</hi> were ve<g ref="char:EOLhyphen"/>ry <hi>Bishops,</hi> appointed One for every City, and the <hi>Suburbicarian</hi> Region thereof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For this is most agreeable, not onely to the <hi>Exposi<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Antient Church,</hi> (the best <hi>Comment,</hi> when all is done, upon doubtfull Places of <hi>Scripture;</hi>)</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But to the <hi>Context</hi> also, which expresly calls them <hi>Bishops,</hi> in the seventh <hi>verse.</hi> Were it not for this, and what follows in the next <hi>Particular,</hi> we were perhaps, at liberty to leave the Word at large in its <hi>general</hi> ac<g ref="char:EOLhyphen"/>ception, as it takes in both <hi>Orders,</hi> both usefull in e<g ref="char:EOLhyphen"/>very City, and so both to be supplied by <hi>Titus;</hi> in which<note n="(z)" place="margin">Argum. <hi>in</hi> Tit. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Oecumenius</hi> hath gone before us, affirming, That <hi>Titus</hi> was left in <hi>Creet, to ordain Clerks in every Ci<g ref="char:EOLhyphen"/>ty?</hi> But we are determined: For, though at present
+<pb n="21" facs="tcp:168993:13"/> I demand not, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whereever it occurs, in the <hi>New Testament,</hi> should signifie a <hi>Bishop;</hi> yet, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth so, I shall not doubt to affirm, till I see the <hi>Text</hi> produced, that attributes it to some Per<g ref="char:EOLhyphen"/>son, otherwise evinced to have been no more, then a single <hi>Presbyter.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And <hi>Thirdly,</hi> and lastly, most agreeable also to the <hi>Text</hi> it self, and the Distribution of these <hi>Presbyters</hi> by Cities, the Peculiar Seat of <hi>Bishops,</hi> according to the <hi>Scheme</hi> of the <hi>Antient Church,</hi> and the <hi>Method</hi> the Blessed <hi>Apostles</hi> thought good to use in the planting, and modelling of it. For, That they Preached the <hi>Go<g ref="char:EOLhyphen"/>spel</hi> not onely in <hi>Cities,</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, vel, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Acts xiii. 49. <hi>&amp;</hi> xiv. 6, 7.</note> but in the <hi>Countries</hi> adjoyn<g ref="char:EOLhyphen"/>ing; yet planted Churches in Cities still, and settled <hi>single Persons</hi> their Successours there, to govern both the <hi>Cities,</hi> and the <hi>Regions</hi> round about, (from whence a <hi>City,</hi> and a <hi>Church</hi> come to be <hi>equipollent</hi> Terms, even in the <hi>Apostolical Writings,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the <hi>Acts</hi>
+               <note n="(b)" place="margin">Acts xiv. 23. <hi>&amp;</hi> xvi. 4, 5.</note> the same with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the <hi>Text</hi>) and yet further, That they left the Churches of <hi>inferiour Cities,</hi> and their <hi>Bishops</hi> in de<g ref="char:EOLhyphen"/>pendance upon the <hi>Metropoles,</hi> which were the Chief according to the <hi>civil Division,</hi> (and that the onely true ground of the <hi>Superiority</hi> of one Church above another) hath been rendred as manifest, as any thing almost in the <hi>Ecclesiastick Antiquity,</hi> against all <hi>Adver<g ref="char:EOLhyphen"/>saries,</hi> (both those of the <hi>Hills,</hi> and those of the <hi>Lake</hi> too) by the Learned, and well-placed Labours of those Excellent Persons in both <hi>Pages</hi> of the <hi>Di<g ref="char:EOLhyphen"/>ptychs,</hi> whom I shall not need to name, since <hi>their</hi> own <hi>Works praise them in the Gate.</hi> Now, I would ask the <hi>Question;</hi> If these be <hi>common Presbyters,</hi> why appro<g ref="char:EOLhyphen"/>priated
+<pb n="22" facs="tcp:168993:14"/> to <hi>Cities?</hi> Were there to be none of this sort in the <hi>Villages,</hi> or in the <hi>Country about?</hi> Or, since limit<g ref="char:EOLhyphen"/>ed to <hi>Cities,</hi> why should we not pronounce them <hi>Bi<g ref="char:EOLhyphen"/>shops?</hi> the <hi>City</hi> being the Bishop's <hi>proper Seat,</hi> and He the <hi>Star</hi> of that <hi>Orb;</hi> the <hi>Angel,</hi> and the <hi>Intelligence</hi> of that <hi>Sphere.</hi> A Truth so Visible, that <hi>Calvin,</hi> and <hi>Beza,</hi> and many others after them (so far may Persons otherwise of great Learning be Transported, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) to avoid the Inconvenience, were concerned to Translate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here <hi>Oppidatim, (El<g ref="char:EOLhyphen"/>ders in every Town:)</hi> not, as some others, less Interessed Persons, may, perhaps, be thought to have done, to gain the advantage of that <hi>distributive Termination,</hi> which no <hi>Adverb</hi> from <hi>Civitas,</hi> or <hi>Ʋrbs,</hi> could afford them: but,<note n="(c)" place="margin">See Mr. <hi>Hooker</hi>'s <hi>Pre<g ref="char:EOLhyphen"/>face.</hi>
+               </note> I fear, for some other Design: perhaps, to make the <hi>Interpretation</hi> of the <hi>Text</hi> (a <hi>Practice</hi> too Usual with them, &amp; others) to <hi>lacquay</hi> it to the espous<g ref="char:EOLhyphen"/>ed Opinions, and to serve the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and so to whip <hi>Theologie</hi> with <hi>Grammar</hi>'s Rods; but so loosely bound up, that at the first stroke they flie in the Air, and prove ineffectual; every <hi>Alphabetarian</hi> knowing well, that the <hi>Latine</hi> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>Ʋrbs,</hi> or <hi>Civitas:</hi> and <hi>Op<g ref="char:EOLhyphen"/>pidum,</hi> in the precise <hi>propriety</hi> of <hi>Language</hi> (which ought in such <hi>cases</hi> to be kept) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> at the most, in middle state betwixt a <hi>City,</hi> and a <hi>Dorp;</hi> and in the <hi>antient Glosses</hi>
+               <note n="(d)" place="margin">Gloss. <hi>Phi<g ref="char:EOLhyphen"/>lox.</hi> &amp; <hi>Cyrilli.</hi>
+               </note> no more then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Civitatula</hi> at the Highest.</p>
+            <p>And now, I shall not take upon me, as some have done, to number the <hi>Cities</hi> under <hi>Titus</hi>'s <hi>Jurisdiction,</hi> 'Tis true, in <hi>Homer</hi>'s Time <hi>Creet</hi> was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="(e)" place="margin">Centum urbium cla<g ref="char:EOLhyphen"/>ra samâ. <hi>Plin.</hi> lib. <hi>4. cap. 12.</hi>
+               </note> fa<g ref="char:EOLhyphen"/>mous for its <hi>hundred Cities:</hi> But in <hi>Ptolomie</hi>'s Age they a<g ref="char:EOLhyphen"/>rose not to half the Number; and <hi>Pliny,</hi> having named
+<pb n="23" facs="tcp:168993:14"/> about fourty, saith plainly, that of the other sixty <hi>memo<g ref="char:EOLhyphen"/>ria extat;</hi> nothing remained but the <hi>Memory.</hi> In the <hi>Times</hi> of the <hi>Greek Empire,</hi> they were about twenty <hi>Suf<g ref="char:EOLhyphen"/>fragan Bishops,</hi> under four <hi>Arch-Bishops,</hi> as <hi>Maginus</hi>
+               <note n="(f)" place="margin">In <hi>Geogr.</hi> pag 183. b.</note> reckons them up; but, at this day, under the <hi>Veneti<g ref="char:EOLhyphen"/>an,</hi> not half so many of either sort. So variable are these <hi>Proportions,</hi> according to the <hi>Fate</hi> of <hi>cities,</hi> and the dayly Change of the <hi>civil Partition.</hi> Who would look now for the Throne of a <hi>Primate</hi> in <hi>Caer-Leon</hi> up<g ref="char:EOLhyphen"/>on <hi>Ʋsk?</hi> or rake in the Ruins of <hi>Carthage</hi> for St. <hi>Cypri<g ref="char:EOLhyphen"/>an</hi>'s <hi>Mitre?</hi> He, that should undertake a <hi>Pilgrimage</hi> to <hi>Creet,</hi> to visit <hi>Titus</hi> his <hi>Metropolis,</hi> would in vain en<g ref="char:EOLhyphen"/>quire for the once-Famous <hi>Gortyna,</hi> and not finde so much of its <hi>Dust</hi> together, as would suffice to write its <hi>Name</hi> in. That renowned <hi>Septenary</hi> of <hi>Asia,</hi> of old not onely <hi>Episcopal,</hi>
+               <note n="(g)" place="margin">
+                  <hi>See the Learned</hi> Pri<g ref="char:EOLhyphen"/>mate<hi>'s Ex<g ref="char:EOLhyphen"/>cellent</hi> Dis<g ref="char:EOLhyphen"/>courses of the Original of Me<g ref="char:EOLhyphen"/>trop. and the Proconsular <hi>Asia.</hi>
+               </note> but <hi>Metropolitical Churches,</hi> where are they? <hi>Cities</hi> may fail, and <hi>Bishops Sees</hi> with them: <hi>Stars</hi> have their Vicissitudes; may rise, and set again: <hi>Candlesticks</hi> are moveable <hi>Ʋtensils,</hi> and may be carried from Room to Room: But <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the standing <hi>Rule,</hi> and fails not; a <hi>City,</hi> and a <hi>Bishop,</hi> ge<g ref="char:EOLhyphen"/>nerally <hi>adequate</hi> to one another. For as, on the one side, an <hi>Ʋniversal Bishop,</hi> with the <hi>whole</hi> World for his <hi>Jurisdiction,</hi> is a proud Pretense, and too vast for Hu<g ref="char:EOLhyphen"/>manity to grasp; so, on the other side, <hi>Rural Bishops</hi> too is a poor, and mean Design, and not onely retrives the <hi>Italian Episcopelli,</hi> so scorned at <hi>Trent;</hi> but worse. As He divided the <hi>Stream</hi> into so many <hi>Rills,</hi> that it lost its Name, and Being; so these, by a too minute Di<g ref="char:EOLhyphen"/>vision would <hi>Cantonize</hi> the Dignity, and <hi>degrade</hi> it into nothing at the last; as the <hi>Roitelets,</hi> and petty Kings of <hi>Ivedot,</hi> do but diminish <hi>Majesty,</hi> and take it down in<g ref="char:EOLhyphen"/>to
+<pb n="24" facs="tcp:168993:15"/> to contempt.<note n="(h)" place="margin">Concil. Laodic. Sardic. Tolet. <hi>12.</hi>
+               </note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Non in vicis, aut villis, aut</hi>
+               <note n="(i)" place="margin">
+                  <hi>q. d.</hi> Non in oppido.</note>
+               <hi>modicâ civitate;</hi> No Bi<g ref="char:EOLhyphen"/>shops there,<note n="(k)" place="margin">Ne vilescat nomen Episcopi.</note>
+               <hi>lest they grow contemptible;</hi> so run the <hi>Canons</hi> of the <hi>Antient Church,</hi> both <hi>Greek,</hi> and <hi>Latine.</hi> And therefore the twelfth <hi>Councel</hi> of <hi>Toledo</hi>
+               <note n="(l)" place="margin">Ann. 716.</note>
+               <hi>unmi<g ref="char:EOLhyphen"/>tered</hi> one <hi>Convildus,</hi> formerly an <hi>Abbot</hi> in a little Vil<g ref="char:EOLhyphen"/>lage, and dissolved the <hi>Bishoprick,</hi> which<note n="(m)" place="margin">Or <hi>Wamba.</hi>
+               </note>
+               <hi>Bamba,</hi> the <hi>Gothick</hi> King, had violently procured to be erected there; and that by authority of this <hi>Rule</hi> of the <hi>Church,</hi> and the very <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of my <hi>Text,</hi>
+               <note n="(n)" place="margin">Inprimis ex Epistola <hi>Pauli Tito</hi> Discipulo, ut Episcopos per civitates consti<g ref="char:EOLhyphen"/>tuere debeat, praecepit, <hi>&amp;c. Concil. Mer<g ref="char:EOLhyphen"/>lin. Tom. 1. pag 135.</hi> b.</note> which they <hi>actu<g ref="char:EOLhyphen"/>ally</hi> plead in the Front of their <hi>Decree,</hi> to justifie their <hi>proceedings.</hi>
+            </p>
+            <p>Amongst these so many Cities in <hi>Creet, Gortyna</hi> was then the <hi>Civil Metropolis,</hi> as <hi>Solinus,</hi>
+               <note n="(o)" place="margin">
+                  <hi>Cap. 17.</hi> Ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tum consti<g ref="char:EOLhyphen"/>pata Ʋrbibus<g ref="char:EOLhyphen"/>quarum princi<g ref="char:EOLhyphen"/>patus est penès <hi>Gortynam.</hi>
+               </note> who lived in that Age, informs us: and in the <hi>next Age,</hi> we are sure, the <hi>Ecclesiastical Metropolis</hi> too; there being still extant, in the<note n="(p)" place="margin">
+                  <hi>Euseb.</hi> lib. 4. cap. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Church-Story,</hi> the <hi>Inscription</hi> of an <hi>Epistle,</hi> that plainly infers it. For <hi>Dionysius,</hi> that renowned Bishop of <hi>Corinth,</hi> who flourished about the middle of the <hi>se<g ref="char:EOLhyphen"/>cond Century,</hi> and stands so highly commended in <hi>Eu<g ref="char:EOLhyphen"/>sebius</hi> for his <hi>Catholick Epistles,</hi> (seven of them being there mentioned) to several <hi>Churches,</hi> and their <hi>Bi<g ref="char:EOLhyphen"/>shops,</hi> or, as S. <hi>Jerome</hi>
+               <note n="(q)" place="margin">
+                  <hi>In</hi> Catalogo Script. Eccles.</note> hath it more distinctly, <hi>Ad a<g ref="char:EOLhyphen"/>liarum Ʋrbium &amp; Provinciarum Episcopos</hi> (some of them being written to <hi>inferiour Cities,</hi> and <hi>Bishops,</hi> other to <hi>Mother-cities,</hi> and their <hi>Metropolitans,</hi> and so to whole <hi>Provinces</hi>) amongst the rest sent two into <hi>Creet:</hi> the One, of the former sort, to <hi>Pinytus, Gnossiae urbis Epi<g ref="char:EOLhyphen"/>scopum,</hi> as S. <hi>Jerom,</hi> or as <hi>Eusebius,</hi>
+               <note n="(r)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>To the</hi> Gnossians, <hi>and</hi> Pinytus, <hi>Bishop of that Diocess</hi> onely: the Other, of the later sort, and in a different Style,<note n="(s)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>To the Church about</hi> (or, <hi>belonging to</hi>) Gortyna, <hi>together with the rest of
+<pb n="25" facs="tcp:168993:15"/> the Dioceses in</hi> Creet, and in it acknowledgeth <hi>Philip their</hi> Bishop, that is, not onely of that Church of <hi>Gor<g ref="char:EOLhyphen"/>tyna,</hi> but of all those <hi>Dioceses,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) whom therefore S. <hi>Jerom</hi> significantly qualifies <hi>Epi<g ref="char:EOLhyphen"/>scopum</hi> Cretensem, <hi>hoc est, urbis</hi> Gortynae, <hi>Bishop</hi> of <hi>Gor<g ref="char:EOLhyphen"/>tyna,</hi> &amp; <hi>eo nomine</hi> of all <hi>Creet</hi> too. Enough to make E<g ref="char:EOLhyphen"/>vidence, that <hi>Gortyna</hi> was the <hi>Metropolis</hi> of <hi>Creet,</hi> even in the <hi>Christian</hi> accompt, very early, and long before the <hi>Councel of Nice,</hi> (whatever hath been pretended to the contrary,) and probably in the <hi>Epoch</hi> of the <hi>Text</hi> it self; since even then it was certainly such in the <hi>civil Style,</hi> most confessedly the Ground of the <hi>Christian</hi> establishment (for sure, it was not <hi>Chance,</hi> or <hi>Lottery,</hi> that produced a perpetual <hi>Coincidence</hi>) both there, and elsewhere the World over.</p>
+            <p>And, now, let me lead you up to the top of Mount <hi>Ida,</hi> the proudest Height in <hi>Creet;</hi> from whence <hi>Geographers</hi> tell us, we may descry both Seas, and see all the Cities, like a <hi>Crown,</hi> in Circle about it. There let us make a stand a while, and look about us, and consider holy <hi>Titus,</hi> with those numerous <hi>Plantations,</hi> and <hi>Nurseries</hi> of <hi>Primitive Christianity,</hi> distributed, as it were<note n="(t)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Areolatim,</hi> like so many distinct <hi>Beds,</hi> and <hi>Knots</hi> in the <hi>Eden</hi> of God, planted, and watered, and drest by <hi>Apostolical</hi> Hands, all under his care, and cu<g ref="char:EOLhyphen"/>stody. Consider him (by way of <hi>Recollection</hi>) under the Variety of Circumstance, wherein the <hi>Text</hi> hath hitherto presented him to our Meditations. Consider him a <hi>single Person;</hi> no <hi>Collegues,</hi> no <hi>Compeers,</hi> no <hi>Co<g ref="char:EOLhyphen"/>ordinates.</hi> For, as our <hi>Lord</hi> promised the <hi>Keys,</hi> (and, doubtless, so gave, as he had promised them) not to a <hi>College,</hi> but to <hi>single</hi> Persons,<note n="(u)" place="margin">Matth. xvi. 19.</note>
+               <hi>Tibi dabo—&amp; quodcun<g ref="char:EOLhyphen"/>que
+<pb n="26" facs="tcp:168993:16"/> (Tu) ligaveris—:</hi> So the <hi>Apostles,</hi> at the next remove, S. <hi>Paul</hi> here, I am sure, for One entrusts all, not to <hi>Communities,</hi> and <hi>Consistories,</hi> but to <hi>Individuals;</hi> for so runs the Style, <hi>Ego Te-ut Tu-sicut ego Tibi,</hi> all <hi>Perso<g ref="char:EOLhyphen"/>nal,</hi> and <hi>Particular.</hi> Consider him determined to a fix'd, and constant Residence, left, and settled in <hi>Creet,</hi> the <hi>Ordinary,</hi> and perpetual Governour of that <hi>Church.</hi> For we ought to have more regard to Reason, and the true Nature of things, than to pronounce him an <hi>Ex<g ref="char:EOLhyphen"/>traordinary</hi> Officer; who, for ought appears, is im<g ref="char:EOLhyphen"/>powered to none, but <hi>Acts</hi> of Ordinary, and conti<g ref="char:EOLhyphen"/>nual Importance to the <hi>Church:</hi> and more Reverence for the blessed <hi>Apostle,</hi> than to think, he would issue a <hi>Commission,</hi> full fraught with <hi>Rules</hi> of Perpetual Use, to a <hi>Temporary Delegate,</hi> who was perhaps next day to be <hi>exauctorated,</hi> and never to have any Exercise of them. Consider him, yet further, invested with a Plenitude, and Sufficiency of Power (not onely to <hi>Preach,</hi> and <hi>Baptize,</hi> and so to beget <hi>Sons</hi> to God, and the <hi>Church,</hi> which is the <hi>Presbyter</hi>'s and, for ought I know, the whole of the <hi>Evangelist</hi>'s <hi>Office;</hi> but also) both to <hi>Or<g ref="char:EOLhyphen"/>dain Elders</hi> in all the Cities under him, and so to beget spiritual <hi>Fathers</hi> too, as <hi>Epiphanius</hi>
+               <note n="(w)" place="margin">
+                  <hi>Contra Haeres.</hi> lib. 3. contr. <hi>Aërium.</hi>
+               </note> distinguisheth; and then (as, in the old <hi>Paternal Dominion,</hi> they ruled whom they had begotten) to govern, and regulate whom he had thus ordained, even all the Bishops of those numerous Cities. Whence the Question of our Reverend and Learned<note n="(x)" place="margin">Apud Rev. <hi>Usserium.</hi>
+               </note>
+               <hi>Jewel</hi> most naturally pro<g ref="char:EOLhyphen"/>ceedeth, <hi>Having the Government of so many Bishops, what may we call him, but an Arch Bishop?</hi> (and I add) of so many Cities, what but a <hi>Metropolitan?</hi> I say, Consider all this soberly, and maturely, and you will not disa<g ref="char:EOLhyphen"/>vow
+<pb n="27" facs="tcp:168993:16"/> me, if I say, That whosoever shall drive us out of this <hi>Creet,</hi> thus strongly Garisoned by S. <hi>Paul,</hi> and his <hi>Disciples,</hi> and slight and dismantle so many Strengths, and Fortresses of the <hi>Episcopal</hi> cause, as there were Cities in that <hi>Island,</hi> and extort out of our hands this great <hi>Instance</hi> of so many Bishops, ordained, and go<g ref="char:EOLhyphen"/>verned by their own <hi>Metropolitan,</hi> so high in the <hi>first Age;</hi> will be a very <hi>Pyrgopolinices</hi> indeed,<note n="(y)" place="margin">Plaut. <hi>in</hi> Milite.</note>
+               <hi>qui legi<g ref="char:EOLhyphen"/>ones Spiritu difflat,</hi> and deserve the <hi>Sur-name</hi> of <hi>Creti<g ref="char:EOLhyphen"/>cus,</hi> better than <hi>Metellus</hi> the <hi>Roman,</hi> that subdued the <hi>Island.</hi>
+            </p>
+            <p>For our parts, we are not ashamed of our <hi>Conformi<g ref="char:EOLhyphen"/>ty</hi> to so <hi>Primitive</hi> a <hi>Pattern;</hi> nay, we glory in so hand<g ref="char:EOLhyphen"/>som, and innocent a <hi>Syncretism:</hi> For we are not bet<g ref="char:EOLhyphen"/>ter, than our <hi>Fathers;</hi> nor wiser, than the <hi>Apostles</hi> of <hi>Christ</hi> himself. And, had we been of their Counsel, who not long since pretended to <hi>reform</hi> us <hi>according to the best Examples,</hi> we might have bespoke them, as once S. <hi>Paul</hi> did those over-hasty, and unruly <hi>Mari<g ref="char:EOLhyphen"/>ners,</hi> (who would needs put to Sea, when Sailing was dangerous, and thrive accordingly, being quickly forced to abandon the Helm, and to let the Ship<note n="(z)" place="margin">Act. xxvii. 15.</note>
+               <hi>drive,</hi> being not able to <hi>bear up against the Wind</hi>)<note n="(a)" place="margin">Verse 21.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Sirs, you should not have parted from Creet</hi> in the <hi>Text,</hi> and so have gained<note n="(b)" place="margin">Ibid. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>harm, and disgrace.</hi> If really you be in quest of the <hi>best Examples</hi> of modelling a <hi>Church,</hi> you may certainly finde here as fair, and as pure <hi>Ideas,</hi> &amp; as well worth your Imitation, as the more <hi>Modern Platform</hi> can afford you; which<note n="(c)" place="margin">See Mr. <hi>Hooker</hi>'s <hi>Preface.</hi>
+               </note> I have reason to believe the <hi>famous Authour</hi> of it intended not at first a <hi>Pattern</hi> to other Churches, but an <hi>Expedient</hi> to serve
+<pb n="28" facs="tcp:168993:17"/> the present <hi>Exigent</hi> of his own, in a <hi>Juncture</hi> scarce capable of any thing better, and which, I am perswa<g ref="char:EOLhyphen"/>ded, the learnedst, and wisest, and most Pious of his Followers would gladly relinquish for something more perfect, and <hi>Primitive;</hi> would the <hi>Necessities</hi> of their present Condition (which have <hi>no Law,</hi> but much of <hi>Excuse</hi> for those, that really lie under them) permit them the Happiness of so blessed an Ex<g ref="char:EOLhyphen"/>change. Which God in mercy send them.</p>
+            <p>And so much of the <hi>Second Act,</hi> to which the Power is here designed, and that is the <hi>Ordaining of Elders,</hi> to<g ref="char:EOLhyphen"/>gether with the Distribution of them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In e<g ref="char:EOLhyphen"/>very City one.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> I have but three words to add of the <hi>third Part</hi> of my <hi>Text,</hi> and that was, the <hi>Limitation of these Acts to the Apostle's Prescription;</hi> All must be so done, even <hi>as he had appointed. So,</hi> in regard of the <hi>Variety</hi> of the <hi>Offices</hi> themselves, and their several <hi>Subordinations; So,</hi> in regard of the <hi>Choice</hi> of the <hi>Persons,</hi> and their requi<g ref="char:EOLhyphen"/>site <hi>Qualifications;</hi> and <hi>So</hi> also, in regard of the <hi>Rites,</hi> and <hi>Ceremonies,</hi> and <hi>Manner</hi> of Ordaining them: still, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. All, <hi>as I had appointed thee.</hi>
+            </p>
+            <p>And now, if any demand, Where these <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, these <hi>Constitutions Apostolical,</hi> are to be found; I shall not send them to <hi>Clemens</hi> his <hi>Book,</hi> that bears that <hi>Name,</hi> but to the <hi>Ʋniversal Practice</hi> of the <hi>Antient. Church,</hi> in which they are still in great part Visible; and thence Handed over to <hi>Posterity</hi> by <hi>Tradition,</hi> and <hi>con<g ref="char:EOLhyphen"/>formity</hi> of <hi>Practice;</hi> and by degrees inserted into the <hi>Canons</hi> of the Old <hi>Councels,</hi> as occasion was offered, and into the <hi>Ordinals</hi> of several <hi>Churches.</hi> Or, if a rea<g ref="char:EOLhyphen"/>dier, and more present <hi>Answer</hi> be required, I know
+<pb n="29" facs="tcp:168993:17"/> not where to design it you nearer at hand, or more full to your satisfaction, than by dismissing you, to attend the <hi>great Action,</hi> that is to follow. In which you will see <hi>All</hi> so <hi>Grave,</hi> and <hi>Solemn;</hi> so <hi>Pious,</hi> and <hi>Devout;</hi> so <hi>Primitive,</hi> and <hi>Apostolical;</hi> and so exactly up to the Level of the <hi>Text,</hi> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of S. <hi>Paul</hi> here: that I know not where to point you out so pregnant, and full a <hi>Comment</hi> upon my <hi>Text,</hi> nor what better Amends to make you for my own failings upon it.</p>
+            <p>And yet, having thus hastily run it over, with all its <hi>Parts,</hi> and <hi>Branches,</hi> (Some few <hi>Sands</hi> still remain<g ref="char:EOLhyphen"/>ing of that <hi>Heap,</hi> the Bounty of Your Patience al<g ref="char:EOLhyphen"/>lows me;) I'le crave leave briefly to take a <hi>Second View</hi> of it in the <hi>Auditory</hi> it self, and read it over a<g ref="char:EOLhyphen"/>gain in the Face of the <hi>Assembly.</hi> For the better part of it, your own Thoughts have already prevented me; and every Eye hath singled out our most Reve<g ref="char:EOLhyphen"/>rend <hi>Titus,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Genuine Son,</hi> and Suc<g ref="char:EOLhyphen"/>cessour of the <hi>Apostles,</hi> upon the very <hi>Act</hi> of <hi>Con<g ref="char:EOLhyphen"/>stituting</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, more, than a whole <hi>Pro<g ref="char:EOLhyphen"/>vince</hi> of <hi>Elders</hi> at once: <hi>Men,</hi> able to abide, and pass with Honour the dreadfull <hi>Test,</hi> that follows upon my <hi>Text;</hi> as being both, for Life, <hi>Blameless; Sober, Just, Holy, Temperate;</hi> and <hi>in Doctrine sound, hold<g ref="char:EOLhyphen"/>ing fast the Faithfull Word, as they have been taught;</hi> not<g ref="char:EOLhyphen"/>withstanding all the Discouragements, they have met with, from the sad Condition of our <hi>common Mother.</hi>
+            </p>
+            <p>But then for the rest; I wish it were not so easie a Task, to finde <hi>Creet</hi> in <hi>England,</hi> with all its <hi>Wants,</hi> and all its <hi>Amisses.</hi> For, to say nothing of those more in<g ref="char:EOLhyphen"/>nocent,
+<pb n="30" facs="tcp:168993:18"/> and less important Resemblances, in which we <hi>Symbolize;</hi> (both <hi>Islands</hi> lying in a kinde of<note n="(d)" place="margin">
+                  <hi>Magin.</hi> pag. 182. 38.</note>
+               <hi>Tri<g ref="char:EOLhyphen"/>gon</hi> betwixt three <hi>Points,</hi> or <hi>Promontories;</hi> both styled <hi>The Happy Islands</hi> by Ancient <hi>Writers,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="(e)" place="margin">
+                  <hi>Solin.</hi> cap. 17.</note> and <hi>Insulae Fortunatae</hi>
+               <note n="(f)" place="margin">Camd. Brit. <hi>pag. 3. ex</hi> Lycoph Cassand.</note>) for the Temper of the Air, and Fertility of the Soil; both denominated from those <hi>White,</hi> and<note n="(g)" place="margin">
+                  <hi>Creta, ab Insula</hi> Creta, <hi>ubi melior est.</hi> Isidor. lib. 16. cap. 1.</note>
+               <hi>Chalkie Cliffs,</hi> which bound them on one side,<note n="(h)" place="margin">
+                  <hi>Magin.</hi> pag 182, 38.</note>
+               <hi>Candia à Candidis,</hi> as <hi>Albion ab albis rupibus;</hi> both famous for their <hi>Just Laws,</hi> and Ours no less to be valued, then those of <hi>Rhadamanthus,</hi> and <hi>Minos,</hi> had we but the Wisdom, to comport our selves to the Obedience of them, as we ought:) I say, to let all this pass, I wish we had not too much of <hi>Creet</hi> amongst us, whether <hi>Morally</hi> considered, in regard of their <hi>Vices;</hi> or <hi>Historically,</hi> in regard of their then <hi>im<g ref="char:EOLhyphen"/>perfect</hi> Condition.</p>
+            <p>I would not be mistaken, as One, that delights to <hi>Li<g ref="char:EOLhyphen"/>bel</hi> a whole Nation at once, (especially mine Own) but S. <hi>Chrysostome</hi> hath dress'd an <hi>Apologie</hi> for S. <hi>Paul</hi> in this Particular, by distinguishing,<note n="(i)" place="margin">In <hi>Tit.</hi> Hom. 1.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>He did it not to injure any, but out of kindness, and pure love to reform them:</hi> Just as our Blessed <hi>Lord</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith the same <hi>Father, a thousand times reproached the</hi> Scribes, <hi>and</hi> Pharisees: <hi>not because they had wronged Him; but lest they should harm, and destroy others.</hi> And so St. <hi>Paul,</hi> with the same Affections about him, <hi>cries,</hi>
+               <note n="(k)" place="margin">Gal. iii. 1.</note>
+               <hi>O insensati Galatae!</hi> to one Church; <hi>Are you such Fools?</hi> and here,
+<q>
+                  <note n="(l)" place="margin">v. 12.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>That <hi>Poet</hi> was, I think, a <hi>Prophet</hi> indeed (otherwise, than St. <hi>Paul</hi> meant him) and sang of us too: and in that <hi>Verse</hi> the <hi>present Age</hi> may see its <hi>Face,</hi> and <hi>Blush.</hi>
+               <pb n="31" facs="tcp:168993:18"/> I appeal to your better <hi>Observation,</hi> if we have not out<g ref="char:EOLhyphen"/>vyed the very <hi>Cretans</hi> themselves in the first <hi>Particu<g ref="char:EOLhyphen"/>lar;</hi> and in a worse kinde too, lied <hi>for God</hi>'s <hi>sake,</hi> and<note n="(m)" place="margin">Job xiii. 7.</note>
+               <hi>talked deceitfully for him.</hi> What <hi>pious frauds,</hi> and <hi>holy Cheats?</hi> What <hi>slandering the footsteps of God's Anointed,</hi> when the <hi>Interest</hi> was to <hi>Blacken</hi> Him? What <hi>false accusing of our Brethren,</hi> ay, and of <hi>our Fa<g ref="char:EOLhyphen"/>thers</hi> too; that we might <hi>devour the Man more righteous, than our selves? Pliny</hi>
+               <note n="(n)" place="margin">Lib. 8. cap. 58.</note> hath observed it, <hi>Nullum animal maleficum in</hi> Creta; and <hi>Solinus</hi>
+               <note n="(o)" place="margin">Cap. 17.</note> adds, <hi>Nec ulla Serpens:</hi> But they should have excepted the <hi>In<g ref="char:EOLhyphen"/>habitants;</hi> for they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (and<note n="(p)" place="margin">v. 13.</note>
+               <hi>this Wit<g ref="char:EOLhyphen"/>ness,</hi> I am sure, <hi>is true;</hi>) not onely <hi>Evil Beasts,</hi> as we <hi>translate</hi> it, but <hi>Venemous</hi> too: and I wish there were no other <hi>Island</hi> could shew <hi>Vipers</hi> too many, that have eat out the Bowels of their <hi>Common Mother,</hi> and flown in the face of their <hi>Political Father,</hi> without whose be<g ref="char:EOLhyphen"/>nigner Influence their chill and bennumed <hi>Fortunes</hi> had not Warmth enough, to raise them to so bold an Attempt. 'Tis unwillingly, that I go on to the rest of that <hi>Character:</hi> but your own Experience shall Justify me, if I say, that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that remains, hath been since exemplified in some other Scene; and our <hi>Idleness, and Fulness of Bread,</hi> those Sins of <hi>Sodom,</hi> have, I fear, long since <hi>proclaimed it to our faces.</hi> And now I cannot wonder, if it be observed from the <hi>Records</hi> of <hi>History,</hi> (as<note n="(q)" place="margin">
+                  <hi>In</hi> Tit. iii. 1.</note>
+               <hi>Grotius</hi> assures us, who knew them well) that the <hi>Cretans</hi> were (and I wish, there were no other such) a <hi>mutinous,</hi> and a <hi>seditious People;</hi> and had but too much need to be put in minde by <hi>Titus, to be subject to Pincipalities, and Powers, and to obey Magi<g ref="char:EOLhyphen"/>strates:</hi> For<note n="(r)" place="margin">Jud. ix. 27.</note>
+               <hi>the men of Shechem eat, and drink,</hi> and
+<pb n="32" facs="tcp:168993:19"/> (then most naturally go on to) <hi>curse Abimelech;</hi> (Ay, and <hi>David</hi> they would have done, had they lived in his Time, and the <hi>Flagon</hi> held out) for when our <hi>Bel<g ref="char:EOLhyphen"/>lies,</hi> and our <hi>Heads,</hi> are full, then <hi>Wo</hi> be to our <hi>Govern<g ref="char:EOLhyphen"/>ours;</hi> and <hi>Wealth,</hi> and <hi>Ease,</hi> and <hi>Having-nothing-to-do,</hi> makes us ripe for any thing, that is Evil. There were, amongst the new <hi>Converts</hi> of <hi>Creet,</hi> some false <hi>Brethren</hi>
+               <note n="(s)" place="margin">v. 10.</note>
+               <hi>of the Circumcision;</hi> for the stopping of whose Mouths, as some have thought, and St. <hi>Chrysostom</hi> amongst the rest, St. <hi>Paul</hi> in chief designed this <hi>Epistle.</hi> And I should be glad to be assured, that there are not some amongst us, who, though they love not to Bleed, yet, I am afraid, are too prone to <hi>Judaize</hi> in some other Instance, and to retrive some other part of the <hi>Mosaical Paedagogie,</hi> which, perhaps, suits no better with that<note n="(t)" place="margin">Gal. v. 1.</note>
+               <hi>Liberty, to which</hi> Christ <hi>our</hi> Lord <hi>hath called us, and in which we ought to stand fast.</hi> 'Tis with much Reluctance (could I balk it so full in my way) that I shew you the <hi>Cretan</hi> Labyrinth, that not long since, I am sure, was amongst us (God grant it be not still) that inextricable, and endless <hi>Maze</hi> of Errours, and <hi>Heresies,</hi> that every day opened it-self into new Paths, and Allies; dividing, and subdividing into ne<g ref="char:EOLhyphen"/>ver-ending <hi>Mistakes,</hi> till they had abased, and almost destroyed <hi>Religon</hi> with abominable <hi>Heterogeneous</hi> Mixtures, and left the little Semblance of <hi>Christianity,</hi> was left amongst them, an hideous <hi>Monster,</hi> or <hi>Mino<g ref="char:EOLhyphen"/>taur, Semibovémque virum, Semivirúmque bovem:</hi> — Je<g ref="char:EOLhyphen"/>rusalem, <hi>and</hi> Rome, <hi>party per pale;</hi> with <hi>Geneva,</hi> and <hi>Cracovia,</hi> if you'll have it <hi>quarterly;</hi> Ay, and <hi>Mecca</hi> to, I fear, in <hi>chief</hi> to embellish the <hi>Scutcheon.</hi>
+            </p>
+            <p>But, is there no <hi>Theseus,</hi> no generous <hi>Heroe,</hi> to
+<pb n="33" facs="tcp:168993:19"/>
+               <hi>attaque</hi> this <hi>Monster?</hi> no courteous, and charitable <hi>Ariadne,</hi> that will lend a <hi>Clew,</hi> &amp; help us to disentangle the ruffled <hi>Scain,</hi> and to evade these perplexed wan<g ref="char:EOLhyphen"/>drings? Hath our <hi>Creet</hi> no <hi>Dictamnus</hi> in it, to expell the <hi>Arrow,</hi> which so long hath galled our sides? no <hi>Counter-poison</hi> for so many Mischiefs? Or rather, in the Prophetical Scheme,<note n="(u)" place="margin">Jer. viii. 22.</note>
+               <hi>Is there no Balm in</hi> Gi<g ref="char:EOLhyphen"/>lead? <hi>Is there no Physitian there?</hi> Yes; there is: And therefore let us hope well of the <hi>healing</hi> of the <hi>Wounds of the Daughter of our People,</hi> since they are under the Cure of <hi>those</hi> very <hi>Hands,</hi> upon which God hath entailed a <hi>Miraculous Gift</hi> of <hi>Healing,</hi> as if it were on purpose to raise up our Hopes into some Confi<g ref="char:EOLhyphen"/>dence, that we shall ow one day to those <hi>sacred hands,</hi> next under God, the healing of the <hi>Church</hi>'s, and the <hi>People</hi>'s Evils, as well, as of the <hi>King</hi>'s. Blessed for ever be that God, who hath restored us such a <hi>Gracious Sovereign,</hi> to be <hi>the</hi>
+               <note n="(w)" place="margin">Is. lviii. 12.</note>
+               <hi>Repairer of the breach,</hi> and the <hi>Nursing Father of his Church:</hi> and hath put it into the <hi>King</hi>'s Heart, to appoint <hi>Titus,</hi> as this Day, <hi>to Ordain Elders for every City, to supply all, that is wanting,</hi> and <hi>to correct, what ever is amiss. Blessed are our eyes; for they see that, which many a Righteous man</hi> (more Righteous, than we) <hi>desired so much to see, and hath not seen</hi> It. And blessed be this Day,<note n="(x)" place="margin">Job iii. 4.</note>
+               <hi>(Let God regard it from above, and a more, than common Light shine upon it!)</hi> in which we see the <hi>Phoenix</hi> arising from her <hi>Funeral Pile,</hi> and taking Wing again; our <hi>Holy Mo<g ref="char:EOLhyphen"/>ther,</hi> the Church, standing up from the Dust, and Ruins, in which she sate so long, taking<note n="(y)" place="margin">Es. lxi, 3.</note>
+               <hi>Beauty</hi> again for <hi>Ashes, and the Garments of praise for the spirit of Heavi<g ref="char:EOLhyphen"/>ness;</hi> remounting the <hi>Episcopal</hi> Throne, bearing the
+<pb n="34" facs="tcp:168993:20"/>
+               <hi>Keys</hi> of the Kingdom of Heaven with her, and armed (we hope) with the <hi>Rod</hi> of <hi>Discipline;</hi> her Hands spread abroad, to <hi>Bless,</hi> and to <hi>Ordain,</hi> to <hi>Confirm</hi> the Weak, and to <hi>Reconcile</hi> the Penitent; her <hi>Breasts</hi> flow<g ref="char:EOLhyphen"/>ing with the sincere <hi>Milk</hi> of the Word; and <hi>girt</hi> with a golden <hi>Girdle</hi> under the Paps, tying up All by a meet Limitation, and Restriction to <hi>Primitive Pat<g ref="char:EOLhyphen"/>terns,</hi> and <hi>Prescripts Apostolical.</hi> A sight so Venerable, and August, that, me thinks, it should at once strike Love, and Fear into every Beholder, and an awfull Veneration. I may confidently say it, 'Twas never well with us, since we strayed from the due Reve<g ref="char:EOLhyphen"/>rence, we ought to Heaven, and Her; and 'tis strange, we should no sooner observe it, but run a Madding after other <hi>Lovers,</hi> that ruin'd us, till God<note n="(z)" place="margin">Hos. ii. 6, 7.</note>
+               <hi>hedged in our way with Thorns,</hi> that we could no longer finde them, and then we said, <hi>I will go, and return to my for<g ref="char:EOLhyphen"/>mer Husband; for then was it better with me, then now.</hi>
+            </p>
+            <p>Well; Blest be the Mercies of God, we are at last returned; and <hi>Titus</hi> is come back into <hi>Creet;</hi> and there are <hi>Elders</hi> ordaining for every <hi>City.</hi> But, <hi>Hîc Rhodus, hîc Saltus.</hi> Reverend <hi>Fathers,</hi> this is your <hi>Creet; adorn</hi> it, as you can. The <hi>Province</hi> is <hi>hard,</hi> and the <hi>Task</hi> weighty, and formidable, even to an <hi>Angel</hi>'s Shoulders. That we mistake not; <hi>Titus</hi> was not left behinde in <hi>Creet,</hi> to take his <hi>Ease,</hi> or to <hi>sleep</hi> out the storm, which soon after overtook St. <hi>Paul</hi> at Sea; he might well expect a worse at Land <hi>(Naufragium ter<g ref="char:EOLhyphen"/>restre)</hi> and a more tempestuous <hi>Euroclydon.</hi> Believe it, a <hi>Bishop</hi>'s Robe is<note n="(a)" place="margin">Tunicâ Pu<g ref="char:EOLhyphen"/>nire molestâ; <hi>Juvenal.</hi> Sat. <hi>8.</hi>
+               </note>
+               <hi>Tunica molesta</hi> (as the<note n="(b)" place="margin">Vide <hi>Ba<g ref="char:EOLhyphen"/>ron. Tom.</hi> 1. <hi>Ann.</hi> 66. n. 4.</note>
+               <hi>Mar<g ref="char:EOLhyphen"/>tyr</hi>'s <hi>pitch'd Coat</hi> was called of old) and sits, perhaps, more uneasie upon the Shoulders. The <hi>Miter</hi> is not
+<pb n="35" facs="tcp:168993:20"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to render <hi>invisible,</hi> or <hi>invulnerable;</hi> but rather exposeth to Enemies. The <hi>Rotchet,</hi> &amp; the <hi>Surplice, Em<g ref="char:EOLhyphen"/>blems</hi> of <hi>Innocence</hi> indeed, but <hi>Marks</hi> of <hi>Envy</hi> too; and 'tis in those <hi>Whites,</hi> that Malice sticks all her <hi>Darts.</hi> And therefore St. <hi>Paul</hi> was fain to entreat <hi>Timothy</hi> into this Dignity;<note n="(c)" place="margin">1 Tim. i. 3.</note>
+               <hi>For this cause besought I thee, to abide at</hi> E<g ref="char:EOLhyphen"/>phesus: for there were <hi>Beasts</hi> to be fought with there, and the <hi>Apostle</hi> had tried them,<note n="(d)" place="margin">1 Cor. xv. 32.</note> both <hi>Tooth,</hi> and <hi>Paw.</hi> So that I cannot wonder, if our Bishops say, <hi>Nolo Episcopari,</hi> in good Earnest: and if any of our<note n="(e)" place="margin">Genes. xxxviii. 28, 29.</note>
+               <hi>Zaras</hi> thrust forth a hasty Hand, and be lai'd hold on, and the <hi>Scarlet</hi> Thrid cast about his Finger; 'tis not strange, if he draw back his hand, and refuse the <hi>Primogeniture;</hi> choosing rather to lie hid in Ob<g ref="char:EOLhyphen"/>scurity, <hi>quàm vinctus Purpurâ progredi,</hi> as the great <hi>Car<g ref="char:EOLhyphen"/>dinal</hi>
+               <note n="(f)" place="margin">
+                  <hi>Baron.</hi> Epist. ad <hi>Pa<g ref="char:EOLhyphen"/>pam Clem.</hi> viii. T. 7.</note> wittily alludes. As in <hi>Creet</hi> new-Founded, so in <hi>England</hi> new-Restored, there must needs be many things <hi>wanting,</hi> and much <hi>amiss,</hi> not so easily to be <hi>supplied,</hi> or <hi>amended.</hi>
+            </p>
+            <p>
+               <hi>When the Lord turned again the Captivity of</hi> Sion, they made their thankfull acknowledgments, and said in the <hi>Psalm,</hi>
+               <note n="(g)" place="margin">Psal. cxxvi. 3.</note>
+               <hi>The Lord hath done great things for us already, whereof we will be glad.</hi> But then it follows immediately in the next <hi>Verse,</hi>
+               <note n="(h)" place="margin">v. 4.</note>
+               <hi>Turn again our Ca<g ref="char:EOLhyphen"/>ptivity, O Lord, as the Rivers in the South.</hi> It seems, <hi>their</hi> Captivity (I am sure <hi>Ours</hi>) is still to <hi>turn again,</hi> even after 'tis <hi>returned.</hi> For there are <hi>Reliques</hi> of it still behinde; and the sad <hi>Effects</hi> remain, (an <hi>Age</hi> will hardly be able to <hi>Efface</hi> them;) and, which is the saddest of All, we are still, I fear, in <hi>captivity</hi> to the same Sins, that occasioned that; and they are able to bring upon us <hi>Ten Thousand</hi> Captivities, worse,
+<pb n="36" facs="tcp:168993:21"/> than the former. Plainly, there are <hi>Riddles</hi> in our Condition, (and whose <hi>Heifer</hi> shall we <hi>plow</hi> with<note n="(i)" place="margin">Judg. xiv. 18.</note> to unfold them?) <hi>Returned,</hi> and <hi>not returned: Restored,</hi> and yet <hi>not</hi> so fully <hi>restored:—</hi> in fine, with them in the <hi>Psalm,</hi>
+               <note n="(k)" place="margin">Pcxxvi. 1.</note>
+               <hi>We are like to them, that dream.</hi> With St. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi>
+               <note n="(l)" place="margin">Acts xii. 7. &amp;c.</note> the <hi>good Angel</hi> hath rouzed us, indeed, and our <hi>chains</hi> are fallen off; we have bound on our <hi>Sandals,</hi> and begin to finde our <hi>Legs</hi> again; and we are past the <hi>first,</hi> and the <hi>second Ward:</hi> But, me thinks, the <hi>Iron-gate,</hi> that leads to the <hi>City,</hi> is not over-apt to open to us of its own accord. So that we wist not well, if it be <hi>True,</hi> and <hi>Real,</hi> that is done by the <hi>Angel;</hi> still apt to think we see a <hi>Vision;</hi> still <hi>like to them, that dream.</hi> We have <hi>Jerusalem</hi> ('tis true) and the Hill of <hi>Sion</hi> in our <hi>Eye:</hi> Yet many look back to <hi>Babel;</hi> and multitudes sit <hi>Ca<g ref="char:EOLhyphen"/>ptives</hi> still by those <hi>Waters,</hi> encreasing them with their <hi>Tears.</hi> If any have taken down their <hi>Harps</hi> from those <hi>Willows,</hi> they are not <hi>strung,</hi> nor well <hi>in Tune:</hi> and we scarce finde how to sing the <hi>Lord</hi>'s <hi>Songs,</hi> even in our <hi>own</hi> Land.</p>
+            <p>And therefore let me advise you, now, in the <hi>Close</hi> of All; Give not over, but ply your <hi>Devotions</hi> still: and whenever you sing <hi>In Convertendo Dominus,</hi> in the midst of those <hi>Doxologies,</hi> forget not to insert one <hi>Versicle</hi> of Petition, <hi>Converte, Domine; Converte: Turn again,</hi> what remains of <hi>our Captivity,</hi> and perfect our faint beginnings. Ay, that's the way, if we would succeed; <hi>Vota dabunt, quae bella negârunt.</hi> For God will hear the Prayers of his Church, especially for his Church; as he did those of <hi>David, Psal.</hi> cxxxii.<note n="(m)" place="margin">v. 9.</note>
+               <hi>Let thy Priests be cloathed with Righteousness;</hi> that's the <hi>Petition:</hi> and what saith the <hi>Answer</hi> of God, a few
+<pb n="37" facs="tcp:168993:21"/>
+               <hi>Verses</hi> after.<note n="(n)" place="margin">v. 16.</note> I (my self) <hi>will cloath her Priests</hi> (with Righteousness? ay, and) <hi>with Salvation</hi> (too.) <hi>Let thy Saints shout for joy;</hi> saith the <hi>Psalmist: Her Saints,</hi> saith God, <hi>shall shout aloud for joy:</hi> so that there's more granted in both parts, than was asked. S. <hi>Paul</hi> knew well, that this was the <hi>Method:</hi> and therefore, before he took forth his Son <hi>Titus,</hi> the great <hi>Lesson</hi> of my <hi>Text,</hi> he first imparts his <hi>Apostolical</hi> Benediction;<note n="(o)" place="margin">v. 4.</note>
+               <hi>To</hi> Titus, <hi>mine own Son, Grace, and Mercy, and Peace from God the Father, and the Lord</hi> Jesus Christ, <hi>our Saviour.</hi> S. <hi>Chrysostom,</hi> and <hi>Theophy<g ref="char:EOLhyphen"/>lact</hi> have observed it to my hand, that he bestows up<g ref="char:EOLhyphen"/>on so great a <hi>Bishop</hi> the same <hi>common Blessing,</hi> that he is wont to give to All, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) <hi>Grace, and Mercy, and Peace:</hi> ay, and no man, as they go on, hath more need of it, than He. Not of <hi>Grace;</hi> for who hath more Burthens, to bear? more Difficul<g ref="char:EOLhyphen"/>ties, to go through with? Not of <hi>Mercy:</hi> for who in greater danger of offending eith<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r God, or Man? Not of <hi>Peace;</hi> having so many Enemies on all sides, and so many Troubles of every sort. Onely<note n="(p)" place="margin">In locum.</note> S. <hi>Je<g ref="char:EOLhyphen"/>rome</hi> adds, that here's no <hi>Multiplicetur,</hi> as in other<note n="(q)" place="margin">1 Pet. i. 2. 2 Pet. i. 2.</note>
+               <hi>Apprecations.</hi> Common <hi>Christians</hi> may have their Peace <hi>multiplied.</hi> Peace <hi>within,</hi> and Peace <hi>without;</hi> Peace with <hi>God,</hi> and Peace with <hi>Men</hi> too; But <hi>Titus</hi>'s Peace is <hi>sine Multiplicationè.</hi> The <hi>Bishops,</hi> and Gover<g ref="char:EOLhyphen"/>nours of the <hi>Church</hi> must look for none, but Peace with <hi>Heaven,</hi> and their <hi>own Consciences;</hi> (and for that <hi>single Pearl,</hi>
+               <note n="(r)" place="margin">Matth. xiii. 46.</note> like wise Merchants, they sell <hi>all,</hi> that they have;) As for the rest, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="(s)" place="margin">2 Cor. vii. 58.</note> that's their <hi>Lot,</hi> and that's their <hi>Motto</hi> too: they must look for <hi>Fightings without.</hi> S. <hi>Paul,</hi> in that divine <hi>Valedictory</hi>
+               <pb n="38" facs="tcp:168993:22"/> to the <hi>Bishops</hi> of the <hi>Province</hi> of <hi>Ephesus</hi> (Act. xx.) though, as he saith, <hi>for the space of three years together he had not ceased to warn every one of them night, and day, with Tears,</hi> (as knowing well both the <hi>burthen,</hi> and the <hi>danger,</hi> they stood under;) yet (a tender Affection ha<g ref="char:EOLhyphen"/>ving never said enough) he resumes the <hi>Argument,</hi> (verse 8.) <hi>Take heed to your selves, and to all the Flock; For I know, that, after my departing, shall grievous Wolves enter in amongst you</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he had almost said <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="(t)" place="margin">Weer<g ref="char:EOLhyphen"/>wolves, <hi>Loups-garons.</hi>
+               </note>
+               <hi>Mankind Wolves) that will neither spare the Flock, nor You;</hi> but, by a witty and compendious Malice, <hi>attaque</hi> the <hi>Shepherd</hi> first, that the <hi>Sheep</hi> may be scattered, and so gleaned up at leisure. And there<g ref="char:EOLhyphen"/>fore, <hi>Take heed to your selves</hi> in the first place, in whose Welfare that of the <hi>Flock</hi> is so closely bound up. And yet, after all these <hi>Caveats,</hi> and very seaso<g ref="char:EOLhyphen"/>nable <hi>Advertisements,</hi> he cannot yet believe them safe, unless he leaves them under a better Guard, then His, or their Own: And therefore, in <hi>fine,</hi> he kneels down, and prays with them, and for them all, <hi>recommending them to God, and to the Word of his Grace.</hi> And I know not where better to leave you, than in the <hi>Practice,</hi> and actual <hi>Exercise</hi> of a <hi>Duty</hi> so fairly-recommended: and shall therefore desire you, to turn your wearied Eyes from <hi>Me,</hi> and lift them up to <hi>Heaven,</hi> (from whence <hi>every good, and perfect Gift descends</hi>) to seek from thence the Smoothing of all Difficulties, the Solving of all Doubts, the Calming of all Animosities; and the Uniting of all Affections: and to beg of that <hi>Father of Mercies, and God of all Consolations,</hi> That he will (every day more, and more) <hi>Turn again our Capti<g ref="char:EOLhyphen"/>vity, like the Rivers in the</hi> South; <hi>that they, who sow in
+<pb n="39" facs="tcp:168993:22"/> Tears, may reap in Joy:</hi> That he would send forth his good Spirit, to move upon the Waters of our <hi>Massah,</hi> and <hi>Meribah,</hi> to digest that <hi>Chaos,</hi> and <hi>Confusion,</hi> and Strife of <hi>Opinions</hi> into one beautifull, and Harmonious <hi>Composure:</hi> and finally, That He, who, by the hand of his holy Apostle, founded this Church of <hi>Creet</hi> in <hi>Ti<g ref="char:EOLhyphen"/>tus,</hi> and his <hi>Elders,</hi> in a meet, and decent Imparity, and Subordination, would maintain his own <hi>Ordinance</hi> a<g ref="char:EOLhyphen"/>mongst us also, and justifie his <hi>Institutions</hi> to the ut<g ref="char:EOLhyphen"/>most against all Gainsayers; That the <hi>Rod</hi> of <hi>Aaron</hi> may again <hi>bud,</hi> and <hi>blossom,</hi> and bring forth <hi>fruit</hi> a<g ref="char:EOLhyphen"/>mongst us; <hi>That his</hi> Urim, <hi>and his</hi> Thummim, <hi>may be with his Holy Ones; That he would bless their Substance, and accept the Work of their Hands, and smite through the Loins of them, that hate them, that they rise not again:</hi> That so there may never want a <hi>Succession</hi> of Holy <hi>Bi<g ref="char:EOLhyphen"/>shops,</hi> and <hi>Priests,</hi> to shine, as <hi>Lights</hi> in the World, hold<g ref="char:EOLhyphen"/>ing forth the Word of Life; <hi>till we all come in the Ʋ<g ref="char:EOLhyphen"/>nity of the Faith, and of the Knowledg of the Son of God, unto that Perfection, and Fulness</hi> of the everlasting Kingdom: To the which, God in Mercy bring us all, through the Merits of his dear Son. To which most blessed <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and <hi>Son,</hi> with God the <hi>Holy Ghost,</hi> be ascribed by <hi>all</hi> the <hi>Creatures</hi> in <hi>Heaven,</hi> and <hi>Earth, Blessing, Ho<g ref="char:EOLhyphen"/>nour, Glory,</hi> and <hi>Power,</hi> both now, and for evermore. AMEN.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA:</head>
+            <p>Post <hi>Operarum</hi> Curas, adhuc obsecrandus est <hi>Lector,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Page 11. line 14. read <hi>Councel.</hi> p. 13. l. 29. r. <hi>this.</hi> p. 14. l. 8. r. <hi>Deputy.</hi> p. 21. l. 1. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 31. l. 28. r. <hi>benummed.</hi> ib. l. 31. r. <hi>Principalities.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
